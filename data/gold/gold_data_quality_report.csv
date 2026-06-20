@@ -1,0 +1,31 @@
+table_name,rule_name,status,severity,metric_value,details
+customers,null_rate_customer_id,PASS,LOW,0.0,0 nulls out of 2500 rows
+customers,null_rate_state,PASS,LOW,0.0,0 nulls out of 2500 rows
+customers,null_rate_age,PASS,LOW,0.0,0 nulls out of 2500 rows
+customers,null_rate_monthly_income,PASS,LOW,0.0,0 nulls out of 2500 rows
+loan_applications,null_rate_app_id,PASS,LOW,0.0,0 nulls out of 7200 rows
+loan_applications,null_rate_customer_id,PASS,LOW,0.0,0 nulls out of 7200 rows
+loan_applications,null_rate_application_date,PASS,LOW,0.0,0 nulls out of 7200 rows
+loan_applications,null_rate_approval_status,PASS,LOW,0.0,0 nulls out of 7200 rows
+loan_applications,null_rate_risk_score,PASS,LOW,0.0,0 nulls out of 7200 rows
+disbursements,null_rate_loan_id,PASS,LOW,0.0,0 nulls out of 3420 rows
+disbursements,null_rate_app_id,PASS,LOW,0.0,0 nulls out of 3420 rows
+disbursements,null_rate_customer_id,PASS,LOW,0.0,0 nulls out of 3420 rows
+disbursements,null_rate_principal,PASS,LOW,0.0,0 nulls out of 3420 rows
+repayments,null_rate_loan_id,PASS,LOW,0.0,0 nulls out of 26677 rows
+repayments,null_rate_due_date,PASS,LOW,0.0,0 nulls out of 26677 rows
+repayments,null_rate_due_amount,PASS,LOW,0.0,0 nulls out of 26677 rows
+repayments,null_rate_paid_amount,PASS,LOW,0.004,1 nulls out of 26677 rows
+repayments,null_rate_dpd,PASS,LOW,0.0,0 nulls out of 26677 rows
+bureau_features,null_rate_customer_id,PASS,LOW,0.0,0 nulls out of 2500 rows
+bureau_features,null_rate_bureau_score,PASS,LOW,0.0,0 nulls out of 2500 rows
+bureau_features,null_rate_delinq_12m,PASS,LOW,0.0,0 nulls out of 2500 rows
+customers,duplicate_primary_key_customer_id,PASS,LOW,0.0,Duplicate customer_id rows: 0
+loan_applications,duplicate_primary_key_app_id,PASS,LOW,0.0,Duplicate app_id rows: 0
+disbursements,duplicate_primary_key_loan_id,PASS,LOW,0.0,Duplicate loan_id rows: 0
+collection_calls,duplicate_primary_key_call_id,PASS,LOW,0.0,Duplicate call_id rows: 0
+repayments,duplicate_repayment_schedule_key,FAIL,HIGH,1.0,Duplicate repayment schedule keys: 1
+loan_applications,fk_customer_id_exists,PASS,LOW,0.0,Applications with missing customer_id
+repayments,fk_loan_id_exists,PASS,LOW,0.0,Repayments with missing loan_id
+disbursements,principal_outlier_threshold,PASS,LOW,0.0,Principal should be between 0 and 500000
+loan_applications,approval_rate_monthly_drop_gt_5pp,PASS,LOW,1.63,Latest approval rate 46.31% vs previous 47.94%; drop=1.63pp

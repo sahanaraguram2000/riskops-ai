@@ -1,0 +1,9 @@
+[project]
+name = "riskops-ai"
+version = "0.1.0"
+description = "Agentic RAG platform for credit risk analytics and data quality diagnostics"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

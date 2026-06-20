@@ -1,0 +1,6 @@
+# Optional heavier dependencies. The project runs without these.
+pyspark>=3.5.0
+delta-spark>=3.2.0
+langgraph>=0.2.0
+chromadb>=0.5.0
+sentence-transformers>=3.0.0

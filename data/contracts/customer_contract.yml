@@ -1,0 +1,10 @@
+required_columns:
+  - customer_id
+  - state
+  - city
+  - age
+  - employment_type
+  - monthly_income
+  - credit_segment
+  - created_at
+primary_key: customer_id

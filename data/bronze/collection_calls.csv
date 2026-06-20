@@ -1,0 +1,1801 @@
+call_id,loan_id,call_date,outcome,agent_notes
+CALL0000001,LOAN0002068,2026-10-13,Promise to pay,Disputed amount
+CALL0000002,LOAN0001583,2027-01-10,Connected,Customer requested extension
+CALL0000003,LOAN0002990,2026-07-17,No answer,Could not reach
+CALL0000004,LOAN0000275,2026-05-24,Promise to pay,Customer requested extension
+CALL0000005,LOAN0003011,2026-09-11,Connected,Customer requested extension
+CALL0000006,LOAN0002284,2026-11-23,No answer,Disputed amount
+CALL0000007,LOAN0000891,2026-02-21,No answer,Will pay this week
+CALL0000008,LOAN0000963,2025-12-12,Promise to pay,Customer requested extension
+CALL0000009,LOAN0003295,2026-07-22,No answer,Could not reach
+CALL0000010,LOAN0000910,2026-06-13,No answer,Disputed amount
+CALL0000011,LOAN0002926,2026-03-16,Promise to pay,Will pay this week
+CALL0000012,LOAN0000205,2026-02-21,Connected,Could not reach
+CALL0000013,LOAN0003398,2026-08-11,Connected,Income delayed
+CALL0000014,LOAN0000281,2026-09-19,Connected,Disputed amount
+CALL0000015,LOAN0000709,2026-07-05,No answer,Could not reach
+CALL0000016,LOAN0001442,2026-09-25,No answer,Will pay this week
+CALL0000017,LOAN0002654,2025-11-13,Connected,Will pay this week
+CALL0000018,LOAN0002161,2026-06-25,Connected,Disputed amount
+CALL0000019,LOAN0000302,2026-07-05,No answer,Could not reach
+CALL0000020,LOAN0001069,2026-05-07,Connected,Disputed amount
+CALL0000021,LOAN0000193,2026-08-03,Promise to pay,Income delayed
+CALL0000022,LOAN0000709,2026-06-04,No answer,Will pay this week
+CALL0000023,LOAN0002520,2026-02-10,No answer,Disputed amount
+CALL0000024,LOAN0002947,2026-04-11,Promise to pay,Disputed amount
+CALL0000025,LOAN0001932,2026-12-14,Promise to pay,Disputed amount
+CALL0000026,LOAN0003344,2026-05-02,Connected,Customer requested extension
+CALL0000027,LOAN0000461,2026-03-15,Connected,Customer requested extension
+CALL0000028,LOAN0003359,2025-12-19,Promise to pay,Income delayed
+CALL0000029,LOAN0000449,2026-09-12,Promise to pay,Income delayed
+CALL0000030,LOAN0003387,2026-03-04,Connected,Will pay this week
+CALL0000031,LOAN0000290,2026-03-09,No answer,Customer requested extension
+CALL0000032,LOAN0003130,2026-11-13,Promise to pay,Could not reach
+CALL0000033,LOAN0001292,2026-09-25,Connected,Customer requested extension
+CALL0000034,LOAN0003143,2026-12-20,Connected,Could not reach
+CALL0000035,LOAN0000497,2025-10-13,Connected,Could not reach
+CALL0000036,LOAN0001538,2025-09-09,No answer,Disputed amount
+CALL0000037,LOAN0000187,2026-11-08,Connected,Will pay this week
+CALL0000038,LOAN0002380,2026-04-16,Dispute raised,Could not reach
+CALL0000039,LOAN0000296,2026-05-03,No answer,Income delayed
+CALL0000040,LOAN0000582,2026-08-05,Connected,Income delayed
+CALL0000041,LOAN0000848,2026-09-13,Connected,Customer requested extension
+CALL0000042,LOAN0002862,2025-08-22,No answer,Disputed amount
+CALL0000043,LOAN0001964,2025-11-22,Promise to pay,Could not reach
+CALL0000044,LOAN0002534,2026-02-03,No answer,Income delayed
+CALL0000045,LOAN0000722,2025-12-14,Connected,Will pay this week
+CALL0000046,LOAN0000843,2025-12-23,Connected,Customer requested extension
+CALL0000047,LOAN0001460,2027-02-20,No answer,Customer requested extension
+CALL0000048,LOAN0001626,2026-02-09,Connected,Will pay this week
+CALL0000049,LOAN0002748,2026-07-06,Dispute raised,Customer requested extension
+CALL0000050,LOAN0002743,2026-07-24,No answer,Disputed amount
+CALL0000051,LOAN0002826,2025-09-13,Promise to pay,Income delayed
+CALL0000052,LOAN0003238,2025-09-09,Connected,Could not reach
+CALL0000053,LOAN0002896,2026-07-05,No answer,Income delayed
+CALL0000054,LOAN0003104,2026-07-20,Connected,Disputed amount
+CALL0000055,LOAN0000982,2025-09-18,Dispute raised,Disputed amount
+CALL0000056,LOAN0002986,2026-05-24,Promise to pay,Income delayed
+CALL0000057,LOAN0000897,2026-06-25,Connected,Income delayed
+CALL0000058,LOAN0001351,2026-06-14,No answer,Customer requested extension
+CALL0000059,LOAN0001777,2026-05-17,No answer,Disputed amount
+CALL0000060,LOAN0002500,2026-09-23,Promise to pay,Will pay this week
+CALL0000061,LOAN0001640,2026-08-10,Connected,Could not reach
+CALL0000062,LOAN0002535,2026-12-09,Connected,Will pay this week
+CALL0000063,LOAN0001717,2026-02-17,No answer,Could not reach
+CALL0000064,LOAN0002285,2026-08-10,Connected,Disputed amount
+CALL0000065,LOAN0000341,2026-03-21,No answer,Customer requested extension
+CALL0000066,LOAN0000034,2026-04-12,Connected,Will pay this week
+CALL0000067,LOAN0001261,2025-12-12,Dispute raised,Customer requested extension
+CALL0000068,LOAN0003132,2026-03-16,Promise to pay,Customer requested extension
+CALL0000069,LOAN0000564,2026-08-08,Connected,Customer requested extension
+CALL0000070,LOAN0000978,2026-08-13,No answer,Could not reach
+CALL0000071,LOAN0000046,2026-05-06,Connected,Income delayed
+CALL0000072,LOAN0000179,2026-04-23,Promise to pay,Could not reach
+CALL0000073,LOAN0001612,2026-06-09,Wrong number,Could not reach
+CALL0000074,LOAN0002743,2026-09-15,No answer,Will pay this week
+CALL0000075,LOAN0000184,2026-04-14,Promise to pay,Customer requested extension
+CALL0000076,LOAN0003339,2026-02-10,No answer,Customer requested extension
+CALL0000077,LOAN0002494,2027-02-04,No answer,Customer requested extension
+CALL0000078,LOAN0002680,2025-11-21,No answer,Customer requested extension
+CALL0000079,LOAN0002788,2025-10-22,No answer,Will pay this week
+CALL0000080,LOAN0001471,2026-02-02,Promise to pay,Disputed amount
+CALL0000081,LOAN0003357,2026-06-13,Promise to pay,Could not reach
+CALL0000082,LOAN0001589,2026-04-08,Dispute raised,Income delayed
+CALL0000083,LOAN0001668,2026-03-04,No answer,Disputed amount
+CALL0000084,LOAN0001785,2026-10-02,Wrong number,Customer requested extension
+CALL0000085,LOAN0000791,2026-08-07,No answer,Disputed amount
+CALL0000086,LOAN0001427,2026-07-10,Dispute raised,Could not reach
+CALL0000087,LOAN0003121,2026-05-21,Connected,Customer requested extension
+CALL0000088,LOAN0002614,2025-09-09,No answer,Disputed amount
+CALL0000089,LOAN0001824,2026-08-12,Connected,Could not reach
+CALL0000090,LOAN0002274,2026-08-20,No answer,Customer requested extension
+CALL0000091,LOAN0002543,2026-06-09,Promise to pay,Will pay this week
+CALL0000092,LOAN0002844,2025-10-14,Promise to pay,Will pay this week
+CALL0000093,LOAN0000473,2026-03-23,Wrong number,Disputed amount
+CALL0000094,LOAN0002808,2026-07-15,Promise to pay,Disputed amount
+CALL0000095,LOAN0000219,2026-04-03,Dispute raised,Income delayed
+CALL0000096,LOAN0001523,2026-12-18,Promise to pay,Could not reach
+CALL0000097,LOAN0001106,2026-05-19,Connected,Disputed amount
+CALL0000098,LOAN0002411,2026-08-10,Connected,Could not reach
+CALL0000099,LOAN0000109,2026-05-13,No answer,Could not reach
+CALL0000100,LOAN0002950,2026-04-25,Connected,Disputed amount
+CALL0000101,LOAN0001268,2026-08-10,Promise to pay,Could not reach
+CALL0000102,LOAN0001059,2026-01-19,Connected,Income delayed
+CALL0000103,LOAN0000095,2026-03-14,Wrong number,Disputed amount
+CALL0000104,LOAN0003262,2026-01-02,No answer,Could not reach
+CALL0000105,LOAN0001747,2026-02-11,Promise to pay,Income delayed
+CALL0000106,LOAN0001036,2025-10-09,Wrong number,Could not reach
+CALL0000107,LOAN0002870,2025-12-02,No answer,Will pay this week
+CALL0000108,LOAN0002431,2026-11-14,No answer,Income delayed
+CALL0000109,LOAN0002738,2026-08-23,No answer,Income delayed
+CALL0000110,LOAN0002119,2027-02-21,Connected,Customer requested extension
+CALL0000111,LOAN0001459,2026-12-08,No answer,Customer requested extension
+CALL0000112,LOAN0002928,2026-02-15,No answer,Will pay this week
+CALL0000113,LOAN0001673,2026-01-20,Connected,Customer requested extension
+CALL0000114,LOAN0003235,2026-07-08,Connected,Will pay this week
+CALL0000115,LOAN0002497,2026-05-05,Wrong number,Disputed amount
+CALL0000116,LOAN0002855,2026-02-10,Connected,Customer requested extension
+CALL0000117,LOAN0002338,2026-10-06,Connected,Disputed amount
+CALL0000118,LOAN0003149,2026-01-12,No answer,Could not reach
+CALL0000119,LOAN0000002,2026-07-05,No answer,Disputed amount
+CALL0000120,LOAN0002931,2026-12-21,Connected,Income delayed
+CALL0000121,LOAN0001512,2026-06-17,No answer,Income delayed
+CALL0000122,LOAN0002292,2026-06-08,Wrong number,Disputed amount
+CALL0000123,LOAN0000305,2026-01-03,Promise to pay,Disputed amount
+CALL0000124,LOAN0002407,2026-08-12,Promise to pay,Customer requested extension
+CALL0000125,LOAN0001207,2025-12-08,Connected,Disputed amount
+CALL0000126,LOAN0002456,2025-11-13,Wrong number,Will pay this week
+CALL0000127,LOAN0002526,2026-08-06,Connected,Disputed amount
+CALL0000128,LOAN0000707,2026-06-16,Connected,Could not reach
+CALL0000129,LOAN0000742,2026-07-21,Connected,Could not reach
+CALL0000130,LOAN0003418,2026-05-12,Connected,Could not reach
+CALL0000131,LOAN0002118,2026-08-04,Dispute raised,Could not reach
+CALL0000132,LOAN0001672,2026-09-15,Wrong number,Will pay this week
+CALL0000133,LOAN0001562,2025-09-20,Connected,Disputed amount
+CALL0000134,LOAN0002650,2026-05-15,Wrong number,Will pay this week
+CALL0000135,LOAN0000785,2026-11-17,No answer,Will pay this week
+CALL0000136,LOAN0001577,2026-04-14,Promise to pay,Disputed amount
+CALL0000137,LOAN0001484,2025-10-10,Connected,Will pay this week
+CALL0000138,LOAN0001838,2026-12-02,Promise to pay,Will pay this week
+CALL0000139,LOAN0000465,2026-01-22,No answer,Disputed amount
+CALL0000140,LOAN0002692,2026-09-18,No answer,Could not reach
+CALL0000141,LOAN0003415,2026-04-17,Promise to pay,Customer requested extension
+CALL0000142,LOAN0000081,2025-12-19,No answer,Income delayed
+CALL0000143,LOAN0001987,2026-09-21,Connected,Customer requested extension
+CALL0000144,LOAN0000649,2026-09-17,Promise to pay,Disputed amount
+CALL0000145,LOAN0000388,2026-05-20,Connected,Disputed amount
+CALL0000146,LOAN0002727,2026-02-05,Promise to pay,Will pay this week
+CALL0000147,LOAN0001415,2026-02-13,Connected,Income delayed
+CALL0000148,LOAN0000869,2026-06-04,Promise to pay,Disputed amount
+CALL0000149,LOAN0002766,2026-04-20,Connected,Disputed amount
+CALL0000150,LOAN0000642,2026-08-07,No answer,Disputed amount
+CALL0000151,LOAN0002942,2026-05-23,No answer,Could not reach
+CALL0000152,LOAN0000881,2026-01-16,Dispute raised,Customer requested extension
+CALL0000153,LOAN0001572,2026-09-21,Connected,Customer requested extension
+CALL0000154,LOAN0000902,2026-11-16,Connected,Disputed amount
+CALL0000155,LOAN0002575,2026-06-15,Dispute raised,Could not reach
+CALL0000156,LOAN0000611,2025-12-05,Connected,Will pay this week
+CALL0000157,LOAN0002727,2025-11-25,No answer,Will pay this week
+CALL0000158,LOAN0003351,2026-09-14,Connected,Customer requested extension
+CALL0000159,LOAN0000274,2025-10-25,Dispute raised,Will pay this week
+CALL0000160,LOAN0002480,2026-11-06,No answer,Income delayed
+CALL0000161,LOAN0002668,2026-07-17,No answer,Income delayed
+CALL0000162,LOAN0001207,2025-11-09,Dispute raised,Could not reach
+CALL0000163,LOAN0002985,2026-08-23,No answer,Income delayed
+CALL0000164,LOAN0000410,2026-11-02,Promise to pay,Will pay this week
+CALL0000165,LOAN0000898,2026-06-16,Promise to pay,Customer requested extension
+CALL0000166,LOAN0001150,2026-02-02,Promise to pay,Disputed amount
+CALL0000167,LOAN0000452,2026-05-24,Connected,Will pay this week
+CALL0000168,LOAN0002438,2026-11-05,Connected,Customer requested extension
+CALL0000169,LOAN0001055,2025-09-20,Connected,Could not reach
+CALL0000170,LOAN0001290,2026-04-18,Connected,Disputed amount
+CALL0000171,LOAN0001992,2026-05-18,Wrong number,Will pay this week
+CALL0000172,LOAN0003186,2025-12-22,No answer,Will pay this week
+CALL0000173,LOAN0002874,2027-02-08,No answer,Will pay this week
+CALL0000174,LOAN0003317,2026-11-15,Connected,Income delayed
+CALL0000175,LOAN0002622,2026-11-06,Wrong number,Will pay this week
+CALL0000176,LOAN0001448,2026-09-14,Dispute raised,Customer requested extension
+CALL0000177,LOAN0001794,2026-09-02,Connected,Customer requested extension
+CALL0000178,LOAN0002461,2026-08-11,Promise to pay,Income delayed
+CALL0000179,LOAN0000858,2025-11-21,Promise to pay,Will pay this week
+CALL0000180,LOAN0003131,2026-01-16,Connected,Income delayed
+CALL0000181,LOAN0001561,2026-05-03,Dispute raised,Income delayed
+CALL0000182,LOAN0001002,2026-07-02,Connected,Disputed amount
+CALL0000183,LOAN0000663,2026-05-17,No answer,Income delayed
+CALL0000184,LOAN0001577,2026-03-24,Connected,Income delayed
+CALL0000185,LOAN0002672,2026-08-22,Promise to pay,Customer requested extension
+CALL0000186,LOAN0001850,2026-10-03,Connected,Disputed amount
+CALL0000187,LOAN0002934,2026-04-06,No answer,Income delayed
+CALL0000188,LOAN0001378,2026-04-19,Dispute raised,Disputed amount
+CALL0000189,LOAN0001807,2026-04-11,Promise to pay,Income delayed
+CALL0000190,LOAN0002330,2025-12-21,No answer,Income delayed
+CALL0000191,LOAN0001924,2026-08-19,Connected,Income delayed
+CALL0000192,LOAN0001584,2026-06-07,No answer,Could not reach
+CALL0000193,LOAN0000396,2026-06-08,Dispute raised,Income delayed
+CALL0000194,LOAN0002467,2026-06-07,Wrong number,Income delayed
+CALL0000195,LOAN0003056,2026-05-09,Dispute raised,Could not reach
+CALL0000196,LOAN0001288,2026-06-14,No answer,Customer requested extension
+CALL0000197,LOAN0000797,2026-05-13,Connected,Could not reach
+CALL0000198,LOAN0002512,2026-06-14,Dispute raised,Customer requested extension
+CALL0000199,LOAN0001580,2026-09-25,Dispute raised,Will pay this week
+CALL0000200,LOAN0002605,2025-10-03,Connected,Will pay this week
+CALL0000201,LOAN0002731,2026-09-16,Promise to pay,Income delayed
+CALL0000202,LOAN0001169,2025-11-16,Connected,Will pay this week
+CALL0000203,LOAN0003005,2026-06-14,Connected,Income delayed
+CALL0000204,LOAN0000447,2026-02-14,Connected,Could not reach
+CALL0000205,LOAN0001732,2026-06-14,Promise to pay,Disputed amount
+CALL0000206,LOAN0001018,2026-09-21,Wrong number,Will pay this week
+CALL0000207,LOAN0000374,2025-12-13,Connected,Disputed amount
+CALL0000208,LOAN0002818,2025-08-24,No answer,Disputed amount
+CALL0000209,LOAN0002609,2026-05-21,Connected,Will pay this week
+CALL0000210,LOAN0000572,2026-04-14,No answer,Will pay this week
+CALL0000211,LOAN0002110,2027-02-08,No answer,Could not reach
+CALL0000212,LOAN0002013,2026-05-15,No answer,Will pay this week
+CALL0000213,LOAN0002274,2026-06-05,Promise to pay,Customer requested extension
+CALL0000214,LOAN0000380,2025-12-19,Connected,Will pay this week
+CALL0000215,LOAN0002586,2026-01-04,Dispute raised,Disputed amount
+CALL0000216,LOAN0003222,2026-06-07,Dispute raised,Disputed amount
+CALL0000217,LOAN0002936,2026-03-06,Promise to pay,Could not reach
+CALL0000218,LOAN0003168,2026-08-19,Connected,Could not reach
+CALL0000219,LOAN0002816,2026-09-09,Promise to pay,Could not reach
+CALL0000220,LOAN0001431,2026-06-24,Promise to pay,Will pay this week
+CALL0000221,LOAN0001839,2026-01-23,No answer,Will pay this week
+CALL0000222,LOAN0001608,2026-03-03,No answer,Could not reach
+CALL0000223,LOAN0002915,2026-03-15,No answer,Disputed amount
+CALL0000224,LOAN0001382,2026-02-15,Promise to pay,Income delayed
+CALL0000225,LOAN0000875,2026-09-25,Promise to pay,Disputed amount
+CALL0000226,LOAN0000544,2026-04-03,Promise to pay,Customer requested extension
+CALL0000227,LOAN0000551,2026-04-09,Connected,Will pay this week
+CALL0000228,LOAN0001757,2026-05-07,Promise to pay,Will pay this week
+CALL0000229,LOAN0002589,2026-04-25,No answer,Income delayed
+CALL0000230,LOAN0002188,2025-11-18,Promise to pay,Disputed amount
+CALL0000231,LOAN0001162,2025-11-05,Connected,Could not reach
+CALL0000232,LOAN0000691,2026-11-22,Connected,Income delayed
+CALL0000233,LOAN0001502,2026-10-24,No answer,Customer requested extension
+CALL0000234,LOAN0002284,2026-12-16,Promise to pay,Income delayed
+CALL0000235,LOAN0001621,2026-03-20,Connected,Income delayed
+CALL0000236,LOAN0002443,2026-11-13,No answer,Disputed amount
+CALL0000237,LOAN0000303,2026-08-03,Connected,Customer requested extension
+CALL0000238,LOAN0000079,2026-09-15,Wrong number,Customer requested extension
+CALL0000239,LOAN0000221,2026-08-02,Promise to pay,Could not reach
+CALL0000240,LOAN0001242,2026-09-08,Connected,Customer requested extension
+CALL0000241,LOAN0003296,2026-12-25,No answer,Disputed amount
+CALL0000242,LOAN0000290,2026-02-25,Connected,Could not reach
+CALL0000243,LOAN0003175,2025-12-10,Connected,Income delayed
+CALL0000244,LOAN0001878,2026-08-06,No answer,Could not reach
+CALL0000245,LOAN0000087,2026-12-23,No answer,Disputed amount
+CALL0000246,LOAN0000906,2025-11-19,Connected,Could not reach
+CALL0000247,LOAN0001814,2026-02-23,Connected,Disputed amount
+CALL0000248,LOAN0002460,2026-06-22,Promise to pay,Could not reach
+CALL0000249,LOAN0000747,2026-06-02,Promise to pay,Disputed amount
+CALL0000250,LOAN0002199,2026-12-13,No answer,Could not reach
+CALL0000251,LOAN0002668,2026-08-24,Connected,Customer requested extension
+CALL0000252,LOAN0002040,2026-09-18,Promise to pay,Could not reach
+CALL0000253,LOAN0000879,2026-06-23,Connected,Could not reach
+CALL0000254,LOAN0003245,2026-06-14,No answer,Disputed amount
+CALL0000255,LOAN0002760,2026-04-19,Connected,Disputed amount
+CALL0000256,LOAN0000276,2026-05-17,No answer,Income delayed
+CALL0000257,LOAN0002487,2025-09-23,No answer,Disputed amount
+CALL0000258,LOAN0001297,2027-01-20,Connected,Could not reach
+CALL0000259,LOAN0002103,2026-04-23,Connected,Income delayed
+CALL0000260,LOAN0000968,2026-06-17,Promise to pay,Disputed amount
+CALL0000261,LOAN0002351,2026-03-11,Promise to pay,Will pay this week
+CALL0000262,LOAN0000420,2026-08-06,Connected,Disputed amount
+CALL0000263,LOAN0003191,2026-07-25,Promise to pay,Could not reach
+CALL0000264,LOAN0003348,2026-02-10,No answer,Disputed amount
+CALL0000265,LOAN0002386,2026-12-24,Connected,Income delayed
+CALL0000266,LOAN0001614,2026-03-06,Promise to pay,Income delayed
+CALL0000267,LOAN0002202,2026-02-02,Dispute raised,Customer requested extension
+CALL0000268,LOAN0000146,2026-12-18,Promise to pay,Will pay this week
+CALL0000269,LOAN0000297,2026-04-21,Wrong number,Could not reach
+CALL0000270,LOAN0001146,2026-03-19,Wrong number,Customer requested extension
+CALL0000271,LOAN0002184,2027-02-04,No answer,Will pay this week
+CALL0000272,LOAN0001625,2026-07-02,No answer,Customer requested extension
+CALL0000273,LOAN0002232,2026-10-17,No answer,Could not reach
+CALL0000274,LOAN0002940,2026-08-20,No answer,Could not reach
+CALL0000275,LOAN0000107,2026-07-13,Connected,Customer requested extension
+CALL0000276,LOAN0000362,2026-02-24,Connected,Customer requested extension
+CALL0000277,LOAN0000377,2026-02-24,No answer,Customer requested extension
+CALL0000278,LOAN0002742,2026-04-14,Dispute raised,Could not reach
+CALL0000279,LOAN0001467,2026-08-06,No answer,Could not reach
+CALL0000280,LOAN0002486,2025-08-02,Promise to pay,Will pay this week
+CALL0000281,LOAN0000387,2026-03-23,Connected,Customer requested extension
+CALL0000282,LOAN0000602,2025-12-02,Dispute raised,Will pay this week
+CALL0000283,LOAN0002469,2026-01-08,Wrong number,Will pay this week
+CALL0000284,LOAN0002728,2026-02-24,Connected,Will pay this week
+CALL0000285,LOAN0001799,2026-08-16,Promise to pay,Disputed amount
+CALL0000286,LOAN0001712,2026-03-15,Connected,Will pay this week
+CALL0000287,LOAN0000572,2025-12-08,Promise to pay,Income delayed
+CALL0000288,LOAN0002705,2026-12-22,Connected,Disputed amount
+CALL0000289,LOAN0000962,2025-12-17,Connected,Will pay this week
+CALL0000290,LOAN0002672,2026-09-07,Promise to pay,Disputed amount
+CALL0000291,LOAN0000358,2026-01-18,No answer,Disputed amount
+CALL0000292,LOAN0001804,2026-06-13,No answer,Could not reach
+CALL0000293,LOAN0001230,2026-06-07,No answer,Could not reach
+CALL0000294,LOAN0002614,2025-08-25,Dispute raised,Customer requested extension
+CALL0000295,LOAN0001884,2026-07-21,Promise to pay,Disputed amount
+CALL0000296,LOAN0000813,2026-01-04,Connected,Could not reach
+CALL0000297,LOAN0001206,2027-02-14,Connected,Will pay this week
+CALL0000298,LOAN0000631,2026-05-24,Connected,Disputed amount
+CALL0000299,LOAN0001429,2026-11-09,Dispute raised,Disputed amount
+CALL0000300,LOAN0002559,2026-12-21,Connected,Customer requested extension
+CALL0000301,LOAN0001377,2026-10-22,Connected,Income delayed
+CALL0000302,LOAN0002739,2026-02-02,No answer,Will pay this week
+CALL0000303,LOAN0002842,2026-05-12,Wrong number,Income delayed
+CALL0000304,LOAN0001650,2026-03-10,No answer,Will pay this week
+CALL0000305,LOAN0000728,2025-10-11,Connected,Customer requested extension
+CALL0000306,LOAN0003068,2026-07-03,Connected,Will pay this week
+CALL0000307,LOAN0002871,2026-03-17,No answer,Will pay this week
+CALL0000308,LOAN0002083,2025-09-25,Promise to pay,Customer requested extension
+CALL0000309,LOAN0002734,2025-09-06,Wrong number,Income delayed
+CALL0000310,LOAN0000124,2026-08-14,No answer,Will pay this week
+CALL0000311,LOAN0001910,2026-01-10,Promise to pay,Could not reach
+CALL0000312,LOAN0002322,2026-06-21,Dispute raised,Could not reach
+CALL0000313,LOAN0000642,2026-10-10,Dispute raised,Income delayed
+CALL0000314,LOAN0000518,2026-04-08,Connected,Will pay this week
+CALL0000315,LOAN0003359,2025-11-21,Connected,Will pay this week
+CALL0000316,LOAN0002035,2025-09-25,No answer,Income delayed
+CALL0000317,LOAN0002011,2026-02-20,Connected,Could not reach
+CALL0000318,LOAN0002752,2026-03-05,No answer,Disputed amount
+CALL0000319,LOAN0001068,2026-08-15,Connected,Could not reach
+CALL0000320,LOAN0003119,2026-07-17,Promise to pay,Income delayed
+CALL0000321,LOAN0001882,2026-12-09,Promise to pay,Customer requested extension
+CALL0000322,LOAN0001111,2026-05-22,Connected,Income delayed
+CALL0000323,LOAN0001727,2025-09-09,No answer,Could not reach
+CALL0000324,LOAN0000110,2026-04-05,No answer,Income delayed
+CALL0000325,LOAN0001252,2026-05-05,Connected,Customer requested extension
+CALL0000326,LOAN0000922,2026-04-10,Promise to pay,Income delayed
+CALL0000327,LOAN0000123,2026-01-13,No answer,Customer requested extension
+CALL0000328,LOAN0000851,2025-12-17,No answer,Could not reach
+CALL0000329,LOAN0000676,2026-12-02,Connected,Disputed amount
+CALL0000330,LOAN0000401,2026-07-23,Promise to pay,Disputed amount
+CALL0000331,LOAN0003221,2026-12-10,No answer,Disputed amount
+CALL0000332,LOAN0002267,2026-10-04,Dispute raised,Could not reach
+CALL0000333,LOAN0002613,2026-09-08,No answer,Income delayed
+CALL0000334,LOAN0003385,2026-04-05,Promise to pay,Disputed amount
+CALL0000335,LOAN0002447,2026-06-06,Connected,Could not reach
+CALL0000336,LOAN0002870,2026-02-02,No answer,Income delayed
+CALL0000337,LOAN0000269,2026-07-10,Connected,Income delayed
+CALL0000338,LOAN0001035,2026-12-24,No answer,Income delayed
+CALL0000339,LOAN0002833,2026-04-06,Wrong number,Customer requested extension
+CALL0000340,LOAN0001960,2026-05-07,Connected,Disputed amount
+CALL0000341,LOAN0003058,2026-09-02,No answer,Could not reach
+CALL0000342,LOAN0001989,2026-04-23,No answer,Customer requested extension
+CALL0000343,LOAN0003235,2026-02-04,Connected,Income delayed
+CALL0000344,LOAN0002667,2025-08-13,Connected,Income delayed
+CALL0000345,LOAN0002195,2026-05-17,No answer,Could not reach
+CALL0000346,LOAN0002758,2026-12-13,Connected,Customer requested extension
+CALL0000347,LOAN0001983,2026-03-17,No answer,Disputed amount
+CALL0000348,LOAN0003107,2026-07-23,Promise to pay,Disputed amount
+CALL0000349,LOAN0002983,2027-01-19,Connected,Could not reach
+CALL0000350,LOAN0001595,2025-11-18,Promise to pay,Income delayed
+CALL0000351,LOAN0000894,2026-07-12,No answer,Disputed amount
+CALL0000352,LOAN0003295,2026-10-05,Dispute raised,Could not reach
+CALL0000353,LOAN0001053,2026-05-20,Connected,Income delayed
+CALL0000354,LOAN0000519,2027-01-02,Connected,Will pay this week
+CALL0000355,LOAN0000268,2026-07-12,Dispute raised,Could not reach
+CALL0000356,LOAN0000141,2026-05-11,Promise to pay,Customer requested extension
+CALL0000357,LOAN0001625,2026-05-09,No answer,Could not reach
+CALL0000358,LOAN0002613,2026-07-22,Connected,Income delayed
+CALL0000359,LOAN0003248,2025-11-20,No answer,Will pay this week
+CALL0000360,LOAN0003162,2026-05-15,No answer,Will pay this week
+CALL0000361,LOAN0002899,2026-02-13,Connected,Could not reach
+CALL0000362,LOAN0002381,2026-03-24,No answer,Disputed amount
+CALL0000363,LOAN0002635,2026-11-22,Connected,Customer requested extension
+CALL0000364,LOAN0001502,2026-08-04,Connected,Income delayed
+CALL0000365,LOAN0001026,2026-05-07,Wrong number,Will pay this week
+CALL0000366,LOAN0000997,2026-01-05,No answer,Income delayed
+CALL0000367,LOAN0002101,2026-06-19,No answer,Customer requested extension
+CALL0000368,LOAN0001576,2026-10-24,Promise to pay,Will pay this week
+CALL0000369,LOAN0000184,2025-11-20,No answer,Disputed amount
+CALL0000370,LOAN0000474,2026-12-24,No answer,Could not reach
+CALL0000371,LOAN0000476,2025-12-21,No answer,Will pay this week
+CALL0000372,LOAN0003309,2026-05-24,No answer,Customer requested extension
+CALL0000373,LOAN0000909,2026-11-21,Connected,Could not reach
+CALL0000374,LOAN0002326,2026-04-19,No answer,Could not reach
+CALL0000375,LOAN0001016,2026-08-05,Connected,Income delayed
+CALL0000376,LOAN0000686,2026-08-11,Promise to pay,Customer requested extension
+CALL0000377,LOAN0002742,2025-12-07,Connected,Disputed amount
+CALL0000378,LOAN0001962,2026-10-03,No answer,Customer requested extension
+CALL0000379,LOAN0002583,2025-10-25,Wrong number,Customer requested extension
+CALL0000380,LOAN0002420,2026-11-23,No answer,Could not reach
+CALL0000381,LOAN0000422,2026-06-09,No answer,Income delayed
+CALL0000382,LOAN0001720,2025-12-08,Dispute raised,Disputed amount
+CALL0000383,LOAN0003227,2026-10-23,No answer,Customer requested extension
+CALL0000384,LOAN0003283,2026-01-16,Connected,Customer requested extension
+CALL0000385,LOAN0001431,2026-02-20,Promise to pay,Will pay this week
+CALL0000386,LOAN0002353,2026-12-05,Connected,Could not reach
+CALL0000387,LOAN0001086,2026-06-08,No answer,Will pay this week
+CALL0000388,LOAN0001933,2025-11-05,Connected,Disputed amount
+CALL0000389,LOAN0000573,2026-05-09,Connected,Could not reach
+CALL0000390,LOAN0001292,2026-12-02,Connected,Customer requested extension
+CALL0000391,LOAN0001459,2026-08-13,Wrong number,Could not reach
+CALL0000392,LOAN0002118,2026-11-05,Wrong number,Will pay this week
+CALL0000393,LOAN0001239,2026-08-05,Connected,Disputed amount
+CALL0000394,LOAN0002449,2026-02-11,Connected,Disputed amount
+CALL0000395,LOAN0000588,2026-04-19,Connected,Disputed amount
+CALL0000396,LOAN0002431,2026-09-03,Promise to pay,Could not reach
+CALL0000397,LOAN0002270,2026-08-09,Promise to pay,Disputed amount
+CALL0000398,LOAN0002325,2025-10-09,No answer,Will pay this week
+CALL0000399,LOAN0002834,2026-06-04,Connected,Customer requested extension
+CALL0000400,LOAN0002723,2025-09-25,Connected,Could not reach
+CALL0000401,LOAN0001556,2026-04-21,No answer,Customer requested extension
+CALL0000402,LOAN0001358,2026-10-15,Connected,Could not reach
+CALL0000403,LOAN0002480,2026-09-03,No answer,Income delayed
+CALL0000404,LOAN0001393,2026-04-04,Promise to pay,Disputed amount
+CALL0000405,LOAN0000026,2025-09-14,Connected,Could not reach
+CALL0000406,LOAN0002668,2026-11-25,Dispute raised,Income delayed
+CALL0000407,LOAN0000047,2026-05-16,No answer,Could not reach
+CALL0000408,LOAN0000996,2026-05-13,Dispute raised,Could not reach
+CALL0000409,LOAN0000558,2026-02-09,Connected,Income delayed
+CALL0000410,LOAN0000176,2025-12-07,No answer,Customer requested extension
+CALL0000411,LOAN0000108,2026-10-22,Connected,Disputed amount
+CALL0000412,LOAN0000129,2026-07-21,Connected,Disputed amount
+CALL0000413,LOAN0001399,2026-08-14,Connected,Will pay this week
+CALL0000414,LOAN0001374,2026-06-10,Connected,Customer requested extension
+CALL0000415,LOAN0003064,2026-04-02,No answer,Income delayed
+CALL0000416,LOAN0002683,2026-02-02,Connected,Could not reach
+CALL0000417,LOAN0001296,2025-09-20,Wrong number,Customer requested extension
+CALL0000418,LOAN0002179,2026-11-20,No answer,Will pay this week
+CALL0000419,LOAN0002829,2026-04-23,No answer,Disputed amount
+CALL0000420,LOAN0002941,2026-04-25,No answer,Disputed amount
+CALL0000421,LOAN0000765,2026-01-08,Promise to pay,Will pay this week
+CALL0000422,LOAN0001316,2026-05-03,No answer,Will pay this week
+CALL0000423,LOAN0001573,2026-11-09,Promise to pay,Could not reach
+CALL0000424,LOAN0001471,2025-12-20,Promise to pay,Income delayed
+CALL0000425,LOAN0003387,2026-06-16,No answer,Customer requested extension
+CALL0000426,LOAN0002692,2026-12-06,Wrong number,Disputed amount
+CALL0000427,LOAN0001530,2025-12-04,No answer,Will pay this week
+CALL0000428,LOAN0002840,2026-03-02,Connected,Will pay this week
+CALL0000429,LOAN0002322,2026-10-15,Connected,Could not reach
+CALL0000430,LOAN0003090,2025-10-18,Connected,Will pay this week
+CALL0000431,LOAN0003252,2026-07-04,No answer,Could not reach
+CALL0000432,LOAN0000539,2026-06-20,No answer,Could not reach
+CALL0000433,LOAN0002776,2026-10-23,Wrong number,Income delayed
+CALL0000434,LOAN0000450,2026-01-03,Promise to pay,Income delayed
+CALL0000435,LOAN0002128,2026-01-04,Promise to pay,Could not reach
+CALL0000436,LOAN0002973,2026-05-19,Promise to pay,Customer requested extension
+CALL0000437,LOAN0001270,2025-09-08,Connected,Disputed amount
+CALL0000438,LOAN0001654,2026-11-25,Promise to pay,Will pay this week
+CALL0000439,LOAN0003330,2026-06-04,Dispute raised,Income delayed
+CALL0000440,LOAN0001784,2025-12-11,Connected,Will pay this week
+CALL0000441,LOAN0000183,2026-08-09,Dispute raised,Could not reach
+CALL0000442,LOAN0001223,2026-10-06,Promise to pay,Customer requested extension
+CALL0000443,LOAN0000174,2026-09-07,Connected,Disputed amount
+CALL0000444,LOAN0002151,2026-09-17,No answer,Customer requested extension
+CALL0000445,LOAN0003391,2025-12-22,Connected,Customer requested extension
+CALL0000446,LOAN0000358,2026-03-11,No answer,Income delayed
+CALL0000447,LOAN0001550,2026-04-06,No answer,Customer requested extension
+CALL0000448,LOAN0001572,2026-04-23,Dispute raised,Will pay this week
+CALL0000449,LOAN0000030,2026-01-02,No answer,Customer requested extension
+CALL0000450,LOAN0002937,2026-02-16,Promise to pay,Disputed amount
+CALL0000451,LOAN0003167,2026-08-15,Connected,Disputed amount
+CALL0000452,LOAN0001291,2026-09-14,No answer,Disputed amount
+CALL0000453,LOAN0001849,2026-09-03,Wrong number,Customer requested extension
+CALL0000454,LOAN0001088,2026-02-23,No answer,Income delayed
+CALL0000455,LOAN0000726,2025-12-22,Connected,Will pay this week
+CALL0000456,LOAN0000787,2027-02-18,Connected,Customer requested extension
+CALL0000457,LOAN0000783,2026-05-21,Promise to pay,Disputed amount
+CALL0000458,LOAN0000718,2026-05-21,Promise to pay,Income delayed
+CALL0000459,LOAN0002358,2026-09-14,Connected,Income delayed
+CALL0000460,LOAN0002421,2026-01-23,No answer,Will pay this week
+CALL0000461,LOAN0002577,2026-04-05,Promise to pay,Could not reach
+CALL0000462,LOAN0002903,2026-09-11,No answer,Could not reach
+CALL0000463,LOAN0002638,2026-08-19,No answer,Will pay this week
+CALL0000464,LOAN0002893,2026-01-24,Promise to pay,Income delayed
+CALL0000465,LOAN0000310,2026-10-20,Promise to pay,Disputed amount
+CALL0000466,LOAN0002505,2026-07-02,Connected,Could not reach
+CALL0000467,LOAN0002819,2026-01-18,No answer,Will pay this week
+CALL0000468,LOAN0002080,2026-11-16,No answer,Will pay this week
+CALL0000469,LOAN0002178,2026-03-17,Promise to pay,Customer requested extension
+CALL0000470,LOAN0000122,2026-01-20,No answer,Will pay this week
+CALL0000471,LOAN0001639,2026-08-13,Connected,Customer requested extension
+CALL0000472,LOAN0002569,2025-12-21,Connected,Disputed amount
+CALL0000473,LOAN0000784,2027-01-25,Wrong number,Could not reach
+CALL0000474,LOAN0003140,2027-01-19,Connected,Disputed amount
+CALL0000475,LOAN0002361,2026-03-09,No answer,Will pay this week
+CALL0000476,LOAN0001938,2026-12-25,No answer,Disputed amount
+CALL0000477,LOAN0001423,2026-09-18,Dispute raised,Will pay this week
+CALL0000478,LOAN0001628,2026-01-23,Dispute raised,Customer requested extension
+CALL0000479,LOAN0002478,2026-10-24,Wrong number,Could not reach
+CALL0000480,LOAN0001587,2026-05-20,No answer,Income delayed
+CALL0000481,LOAN0002331,2026-09-03,Connected,Disputed amount
+CALL0000482,LOAN0000725,2026-04-18,Promise to pay,Will pay this week
+CALL0000483,LOAN0000578,2026-06-11,No answer,Will pay this week
+CALL0000484,LOAN0000751,2026-05-21,No answer,Could not reach
+CALL0000485,LOAN0001553,2026-06-06,Connected,Income delayed
+CALL0000486,LOAN0000114,2026-03-11,Wrong number,Customer requested extension
+CALL0000487,LOAN0000952,2026-06-21,No answer,Income delayed
+CALL0000488,LOAN0002694,2026-04-06,Connected,Could not reach
+CALL0000489,LOAN0001071,2026-01-20,No answer,Customer requested extension
+CALL0000490,LOAN0002188,2025-08-18,Connected,Will pay this week
+CALL0000491,LOAN0001647,2026-05-24,Connected,Will pay this week
+CALL0000492,LOAN0000712,2026-05-14,Connected,Disputed amount
+CALL0000493,LOAN0001827,2026-05-10,No answer,Income delayed
+CALL0000494,LOAN0000808,2026-05-17,No answer,Will pay this week
+CALL0000495,LOAN0001213,2026-01-11,Connected,Income delayed
+CALL0000496,LOAN0001618,2026-05-16,No answer,Customer requested extension
+CALL0000497,LOAN0000464,2026-04-12,Promise to pay,Could not reach
+CALL0000498,LOAN0002460,2025-12-13,Connected,Customer requested extension
+CALL0000499,LOAN0001703,2026-10-25,No answer,Will pay this week
+CALL0000500,LOAN0002960,2026-04-16,Connected,Could not reach
+CALL0000501,LOAN0001164,2027-01-19,Promise to pay,Disputed amount
+CALL0000502,LOAN0000963,2026-03-09,No answer,Could not reach
+CALL0000503,LOAN0002883,2027-02-23,Promise to pay,Customer requested extension
+CALL0000504,LOAN0001898,2026-07-08,Promise to pay,Could not reach
+CALL0000505,LOAN0002834,2026-04-13,Promise to pay,Customer requested extension
+CALL0000506,LOAN0000048,2026-02-12,No answer,Income delayed
+CALL0000507,LOAN0000380,2026-04-19,No answer,Customer requested extension
+CALL0000508,LOAN0002654,2026-05-08,Connected,Customer requested extension
+CALL0000509,LOAN0002679,2026-11-23,Wrong number,Customer requested extension
+CALL0000510,LOAN0002287,2026-04-24,No answer,Will pay this week
+CALL0000511,LOAN0002854,2026-08-15,Promise to pay,Customer requested extension
+CALL0000512,LOAN0002817,2026-01-19,Connected,Will pay this week
+CALL0000513,LOAN0002671,2026-06-22,No answer,Disputed amount
+CALL0000514,LOAN0000976,2027-02-09,No answer,Could not reach
+CALL0000515,LOAN0000378,2026-06-09,Connected,Customer requested extension
+CALL0000516,LOAN0002451,2026-05-07,Connected,Disputed amount
+CALL0000517,LOAN0002144,2026-07-17,Dispute raised,Could not reach
+CALL0000518,LOAN0002843,2026-08-15,Connected,Disputed amount
+CALL0000519,LOAN0001970,2026-07-20,No answer,Disputed amount
+CALL0000520,LOAN0002718,2026-09-25,Connected,Will pay this week
+CALL0000521,LOAN0001579,2026-09-17,No answer,Disputed amount
+CALL0000522,LOAN0000074,2026-07-15,Connected,Could not reach
+CALL0000523,LOAN0001728,2026-04-11,Connected,Will pay this week
+CALL0000524,LOAN0000479,2026-12-04,No answer,Disputed amount
+CALL0000525,LOAN0000392,2026-08-15,No answer,Will pay this week
+CALL0000526,LOAN0001836,2026-05-06,No answer,Could not reach
+CALL0000527,LOAN0000763,2025-11-08,Connected,Will pay this week
+CALL0000528,LOAN0002706,2026-10-10,No answer,Customer requested extension
+CALL0000529,LOAN0001422,2026-09-11,Promise to pay,Will pay this week
+CALL0000530,LOAN0000848,2026-11-03,Wrong number,Customer requested extension
+CALL0000531,LOAN0002362,2025-12-09,No answer,Could not reach
+CALL0000532,LOAN0001317,2026-02-17,Connected,Could not reach
+CALL0000533,LOAN0003237,2026-09-13,Wrong number,Could not reach
+CALL0000534,LOAN0003339,2026-05-19,Connected,Disputed amount
+CALL0000535,LOAN0001801,2026-09-15,Connected,Income delayed
+CALL0000536,LOAN0000582,2026-07-14,No answer,Could not reach
+CALL0000537,LOAN0002303,2026-05-05,No answer,Income delayed
+CALL0000538,LOAN0002379,2026-02-19,Promise to pay,Disputed amount
+CALL0000539,LOAN0003055,2026-05-11,Promise to pay,Disputed amount
+CALL0000540,LOAN0001160,2026-07-03,Connected,Customer requested extension
+CALL0000541,LOAN0002466,2026-09-13,No answer,Could not reach
+CALL0000542,LOAN0002162,2026-01-11,Promise to pay,Could not reach
+CALL0000543,LOAN0000660,2026-05-17,No answer,Disputed amount
+CALL0000544,LOAN0000493,2026-12-03,Wrong number,Will pay this week
+CALL0000545,LOAN0001154,2026-06-25,No answer,Could not reach
+CALL0000546,LOAN0002753,2026-10-05,No answer,Disputed amount
+CALL0000547,LOAN0001607,2026-08-17,No answer,Customer requested extension
+CALL0000548,LOAN0002578,2026-03-09,Connected,Could not reach
+CALL0000549,LOAN0002367,2026-02-05,Connected,Disputed amount
+CALL0000550,LOAN0001164,2026-08-22,Connected,Will pay this week
+CALL0000551,LOAN0002100,2026-09-20,No answer,Could not reach
+CALL0000552,LOAN0002644,2026-04-07,No answer,Will pay this week
+CALL0000553,LOAN0002717,2026-02-21,Promise to pay,Customer requested extension
+CALL0000554,LOAN0003123,2026-01-12,Connected,Will pay this week
+CALL0000555,LOAN0000763,2026-04-21,No answer,Customer requested extension
+CALL0000556,LOAN0000498,2026-08-19,No answer,Could not reach
+CALL0000557,LOAN0002104,2026-10-02,Connected,Disputed amount
+CALL0000558,LOAN0002344,2025-11-11,Wrong number,Could not reach
+CALL0000559,LOAN0002253,2026-04-05,Connected,Could not reach
+CALL0000560,LOAN0002104,2026-11-02,No answer,Customer requested extension
+CALL0000561,LOAN0002080,2026-12-18,Wrong number,Will pay this week
+CALL0000562,LOAN0003021,2026-12-12,No answer,Customer requested extension
+CALL0000563,LOAN0001770,2026-06-23,Connected,Customer requested extension
+CALL0000564,LOAN0001158,2026-06-05,Promise to pay,Disputed amount
+CALL0000565,LOAN0002153,2026-06-20,Promise to pay,Will pay this week
+CALL0000566,LOAN0001561,2026-01-09,Promise to pay,Income delayed
+CALL0000567,LOAN0002431,2026-10-22,Promise to pay,Disputed amount
+CALL0000568,LOAN0000791,2026-07-14,Dispute raised,Disputed amount
+CALL0000569,LOAN0000699,2026-06-11,Wrong number,Disputed amount
+CALL0000570,LOAN0002296,2025-08-17,Connected,Disputed amount
+CALL0000571,LOAN0003199,2026-08-23,Connected,Income delayed
+CALL0000572,LOAN0003178,2026-08-21,Connected,Will pay this week
+CALL0000573,LOAN0000163,2026-05-06,Connected,Disputed amount
+CALL0000574,LOAN0001008,2026-10-24,Connected,Disputed amount
+CALL0000575,LOAN0000405,2025-12-16,Connected,Income delayed
+CALL0000576,LOAN0000814,2026-04-11,No answer,Income delayed
+CALL0000577,LOAN0002144,2026-05-23,Wrong number,Income delayed
+CALL0000578,LOAN0000858,2026-06-05,Promise to pay,Disputed amount
+CALL0000579,LOAN0000438,2026-12-18,No answer,Will pay this week
+CALL0000580,LOAN0002723,2026-01-21,Connected,Income delayed
+CALL0000581,LOAN0002694,2026-03-10,Wrong number,Customer requested extension
+CALL0000582,LOAN0001162,2025-08-11,Promise to pay,Customer requested extension
+CALL0000583,LOAN0000983,2026-05-03,Dispute raised,Disputed amount
+CALL0000584,LOAN0001759,2026-04-25,No answer,Income delayed
+CALL0000585,LOAN0002822,2026-05-22,No answer,Will pay this week
+CALL0000586,LOAN0002396,2025-12-16,Connected,Disputed amount
+CALL0000587,LOAN0000076,2027-01-14,No answer,Could not reach
+CALL0000588,LOAN0002971,2026-12-11,Connected,Customer requested extension
+CALL0000589,LOAN0002706,2026-11-06,Wrong number,Disputed amount
+CALL0000590,LOAN0000457,2026-07-11,Promise to pay,Income delayed
+CALL0000591,LOAN0000384,2026-04-05,Connected,Disputed amount
+CALL0000592,LOAN0001770,2026-11-04,Dispute raised,Will pay this week
+CALL0000593,LOAN0002851,2026-05-07,Dispute raised,Will pay this week
+CALL0000594,LOAN0001713,2026-08-24,Connected,Will pay this week
+CALL0000595,LOAN0001656,2026-09-08,No answer,Will pay this week
+CALL0000596,LOAN0000295,2026-05-23,Promise to pay,Customer requested extension
+CALL0000597,LOAN0001439,2026-12-21,Promise to pay,Income delayed
+CALL0000598,LOAN0001802,2025-12-02,No answer,Will pay this week
+CALL0000599,LOAN0000355,2026-08-06,Connected,Could not reach
+CALL0000600,LOAN0001069,2026-06-18,No answer,Disputed amount
+CALL0000601,LOAN0002909,2025-12-25,No answer,Income delayed
+CALL0000602,LOAN0002001,2026-09-09,Promise to pay,Disputed amount
+CALL0000603,LOAN0002536,2026-07-07,Dispute raised,Disputed amount
+CALL0000604,LOAN0002904,2026-04-23,Dispute raised,Will pay this week
+CALL0000605,LOAN0001163,2026-12-17,No answer,Income delayed
+CALL0000606,LOAN0002494,2026-09-14,Connected,Disputed amount
+CALL0000607,LOAN0000310,2026-06-13,No answer,Income delayed
+CALL0000608,LOAN0001930,2026-07-21,Dispute raised,Disputed amount
+CALL0000609,LOAN0000447,2026-04-03,Promise to pay,Income delayed
+CALL0000610,LOAN0002196,2026-10-08,Promise to pay,Disputed amount
+CALL0000611,LOAN0002118,2026-06-20,No answer,Will pay this week
+CALL0000612,LOAN0001038,2026-03-04,Connected,Could not reach
+CALL0000613,LOAN0002793,2026-10-18,Dispute raised,Disputed amount
+CALL0000614,LOAN0000621,2026-06-19,No answer,Income delayed
+CALL0000615,LOAN0002348,2026-08-22,No answer,Income delayed
+CALL0000616,LOAN0000645,2026-10-16,Promise to pay,Disputed amount
+CALL0000617,LOAN0000758,2026-07-23,Connected,Disputed amount
+CALL0000618,LOAN0001739,2026-01-12,Connected,Disputed amount
+CALL0000619,LOAN0000799,2026-07-04,Connected,Could not reach
+CALL0000620,LOAN0001961,2027-01-13,No answer,Could not reach
+CALL0000621,LOAN0002361,2026-08-25,Promise to pay,Disputed amount
+CALL0000622,LOAN0001920,2026-10-23,Promise to pay,Disputed amount
+CALL0000623,LOAN0000401,2026-05-12,Connected,Could not reach
+CALL0000624,LOAN0001011,2026-03-19,No answer,Customer requested extension
+CALL0000625,LOAN0000745,2026-07-22,Connected,Income delayed
+CALL0000626,LOAN0001971,2026-04-19,Connected,Will pay this week
+CALL0000627,LOAN0001069,2026-09-22,Connected,Disputed amount
+CALL0000628,LOAN0000645,2026-12-20,No answer,Will pay this week
+CALL0000629,LOAN0001749,2026-10-15,Connected,Will pay this week
+CALL0000630,LOAN0002606,2026-06-08,Dispute raised,Disputed amount
+CALL0000631,LOAN0001556,2026-06-14,Promise to pay,Will pay this week
+CALL0000632,LOAN0000873,2026-07-21,Dispute raised,Could not reach
+CALL0000633,LOAN0000673,2026-08-14,Dispute raised,Will pay this week
+CALL0000634,LOAN0003260,2026-05-18,No answer,Disputed amount
+CALL0000635,LOAN0000702,2026-04-11,Connected,Customer requested extension
+CALL0000636,LOAN0002844,2026-02-19,Promise to pay,Income delayed
+CALL0000637,LOAN0002531,2026-05-24,Connected,Customer requested extension
+CALL0000638,LOAN0003371,2025-10-13,Dispute raised,Income delayed
+CALL0000639,LOAN0002115,2026-08-22,Connected,Will pay this week
+CALL0000640,LOAN0000888,2026-07-10,Connected,Could not reach
+CALL0000641,LOAN0000109,2026-04-23,Promise to pay,Income delayed
+CALL0000642,LOAN0001785,2027-01-04,No answer,Will pay this week
+CALL0000643,LOAN0001016,2026-10-16,Connected,Will pay this week
+CALL0000644,LOAN0003114,2026-12-20,Promise to pay,Could not reach
+CALL0000645,LOAN0001193,2027-02-23,No answer,Could not reach
+CALL0000646,LOAN0003237,2026-11-20,Connected,Could not reach
+CALL0000647,LOAN0002532,2026-08-09,No answer,Disputed amount
+CALL0000648,LOAN0002000,2025-10-05,Connected,Disputed amount
+CALL0000649,LOAN0002017,2026-05-25,Connected,Will pay this week
+CALL0000650,LOAN0002675,2026-02-24,No answer,Could not reach
+CALL0000651,LOAN0000352,2026-06-14,Connected,Could not reach
+CALL0000652,LOAN0001855,2026-04-10,Connected,Will pay this week
+CALL0000653,LOAN0002460,2026-03-19,No answer,Income delayed
+CALL0000654,LOAN0002575,2026-07-11,Connected,Customer requested extension
+CALL0000655,LOAN0003417,2026-02-18,Connected,Customer requested extension
+CALL0000656,LOAN0001725,2026-04-17,No answer,Customer requested extension
+CALL0000657,LOAN0001023,2026-07-07,Dispute raised,Could not reach
+CALL0000658,LOAN0000281,2026-05-02,No answer,Customer requested extension
+CALL0000659,LOAN0001069,2026-08-12,Connected,Could not reach
+CALL0000660,LOAN0003048,2026-06-09,No answer,Will pay this week
+CALL0000661,LOAN0002006,2026-03-09,Connected,Could not reach
+CALL0000662,LOAN0001993,2026-07-03,Connected,Could not reach
+CALL0000663,LOAN0003392,2026-02-16,Wrong number,Will pay this week
+CALL0000664,LOAN0002206,2026-10-19,Connected,Will pay this week
+CALL0000665,LOAN0000722,2025-10-19,Connected,Income delayed
+CALL0000666,LOAN0000941,2025-12-09,No answer,Could not reach
+CALL0000667,LOAN0002450,2027-01-09,No answer,Customer requested extension
+CALL0000668,LOAN0001743,2026-10-20,Connected,Income delayed
+CALL0000669,LOAN0000599,2026-07-25,Connected,Customer requested extension
+CALL0000670,LOAN0002828,2026-07-04,Connected,Customer requested extension
+CALL0000671,LOAN0001401,2026-02-04,No answer,Could not reach
+CALL0000672,LOAN0002868,2026-09-23,Promise to pay,Customer requested extension
+CALL0000673,LOAN0001794,2026-12-18,Connected,Disputed amount
+CALL0000674,LOAN0002025,2026-08-07,Promise to pay,Customer requested extension
+CALL0000675,LOAN0002815,2026-06-23,No answer,Will pay this week
+CALL0000676,LOAN0000614,2026-12-25,Promise to pay,Could not reach
+CALL0000677,LOAN0001192,2026-02-13,Promise to pay,Could not reach
+CALL0000678,LOAN0000106,2026-04-15,Connected,Disputed amount
+CALL0000679,LOAN0002562,2026-09-03,Connected,Could not reach
+CALL0000680,LOAN0000121,2027-01-13,Connected,Could not reach
+CALL0000681,LOAN0002961,2026-01-05,Connected,Disputed amount
+CALL0000682,LOAN0003146,2025-11-24,Promise to pay,Will pay this week
+CALL0000683,LOAN0001357,2026-10-03,No answer,Could not reach
+CALL0000684,LOAN0002803,2026-09-07,No answer,Will pay this week
+CALL0000685,LOAN0000645,2027-01-08,No answer,Income delayed
+CALL0000686,LOAN0000346,2026-10-23,No answer,Income delayed
+CALL0000687,LOAN0002034,2026-07-23,Wrong number,Could not reach
+CALL0000688,LOAN0002768,2026-02-02,Wrong number,Will pay this week
+CALL0000689,LOAN0001270,2025-10-25,No answer,Could not reach
+CALL0000690,LOAN0002783,2026-04-14,No answer,Disputed amount
+CALL0000691,LOAN0000798,2025-12-10,Wrong number,Will pay this week
+CALL0000692,LOAN0000473,2026-06-12,Promise to pay,Will pay this week
+CALL0000693,LOAN0003108,2026-07-24,Promise to pay,Will pay this week
+CALL0000694,LOAN0000144,2026-03-09,Promise to pay,Could not reach
+CALL0000695,LOAN0003371,2025-12-12,Promise to pay,Income delayed
+CALL0000696,LOAN0001275,2026-05-16,Connected,Customer requested extension
+CALL0000697,LOAN0001742,2026-04-09,Promise to pay,Customer requested extension
+CALL0000698,LOAN0002127,2026-08-18,Promise to pay,Disputed amount
+CALL0000699,LOAN0002743,2026-11-09,Promise to pay,Customer requested extension
+CALL0000700,LOAN0000675,2026-04-09,Connected,Income delayed
+CALL0000701,LOAN0001948,2025-11-12,Connected,Will pay this week
+CALL0000702,LOAN0000961,2026-06-24,No answer,Income delayed
+CALL0000703,LOAN0001199,2026-12-06,Promise to pay,Customer requested extension
+CALL0000704,LOAN0002938,2026-11-18,Promise to pay,Disputed amount
+CALL0000705,LOAN0002339,2026-07-03,Promise to pay,Customer requested extension
+CALL0000706,LOAN0001344,2026-06-18,Connected,Disputed amount
+CALL0000707,LOAN0002889,2025-11-22,Promise to pay,Will pay this week
+CALL0000708,LOAN0003011,2026-10-10,No answer,Disputed amount
+CALL0000709,LOAN0002775,2026-09-23,Connected,Will pay this week
+CALL0000710,LOAN0002758,2026-10-02,Promise to pay,Disputed amount
+CALL0000711,LOAN0000107,2025-12-14,Promise to pay,Could not reach
+CALL0000712,LOAN0001402,2026-11-23,Connected,Will pay this week
+CALL0000713,LOAN0000364,2026-12-24,Connected,Income delayed
+CALL0000714,LOAN0002928,2025-10-22,Promise to pay,Could not reach
+CALL0000715,LOAN0002134,2026-07-02,Connected,Could not reach
+CALL0000716,LOAN0003212,2026-04-21,Connected,Will pay this week
+CALL0000717,LOAN0000814,2026-10-07,Connected,Customer requested extension
+CALL0000718,LOAN0001305,2026-08-21,No answer,Income delayed
+CALL0000719,LOAN0003372,2026-07-03,Connected,Customer requested extension
+CALL0000720,LOAN0002192,2026-05-19,Wrong number,Customer requested extension
+CALL0000721,LOAN0000511,2026-07-15,Connected,Will pay this week
+CALL0000722,LOAN0003165,2026-07-06,Connected,Disputed amount
+CALL0000723,LOAN0001647,2026-08-08,No answer,Customer requested extension
+CALL0000724,LOAN0000089,2026-04-10,Promise to pay,Customer requested extension
+CALL0000725,LOAN0001494,2026-04-03,Promise to pay,Disputed amount
+CALL0000726,LOAN0000198,2027-02-16,Connected,Customer requested extension
+CALL0000727,LOAN0001581,2026-03-04,Connected,Will pay this week
+CALL0000728,LOAN0000402,2026-06-13,No answer,Customer requested extension
+CALL0000729,LOAN0002643,2026-07-14,No answer,Income delayed
+CALL0000730,LOAN0001659,2026-07-25,Connected,Could not reach
+CALL0000731,LOAN0000291,2026-10-05,Dispute raised,Income delayed
+CALL0000732,LOAN0002388,2026-05-05,Promise to pay,Could not reach
+CALL0000733,LOAN0000296,2026-01-19,No answer,Will pay this week
+CALL0000734,LOAN0000272,2025-11-03,Connected,Customer requested extension
+CALL0000735,LOAN0000583,2026-09-22,Promise to pay,Customer requested extension
+CALL0000736,LOAN0003350,2026-01-17,Dispute raised,Disputed amount
+CALL0000737,LOAN0000640,2026-10-12,Wrong number,Could not reach
+CALL0000738,LOAN0000125,2026-01-14,No answer,Will pay this week
+CALL0000739,LOAN0002350,2026-05-15,Wrong number,Income delayed
+CALL0000740,LOAN0001023,2026-06-11,Dispute raised,Disputed amount
+CALL0000741,LOAN0002112,2026-07-15,Promise to pay,Will pay this week
+CALL0000742,LOAN0001406,2026-09-13,Dispute raised,Could not reach
+CALL0000743,LOAN0001858,2027-02-10,Wrong number,Will pay this week
+CALL0000744,LOAN0000677,2026-01-17,Connected,Disputed amount
+CALL0000745,LOAN0000217,2026-06-04,Wrong number,Customer requested extension
+CALL0000746,LOAN0001252,2026-03-15,Promise to pay,Customer requested extension
+CALL0000747,LOAN0003353,2026-08-09,No answer,Could not reach
+CALL0000748,LOAN0002505,2026-06-15,Wrong number,Customer requested extension
+CALL0000749,LOAN0001765,2026-04-13,Connected,Customer requested extension
+CALL0000750,LOAN0001442,2027-01-02,Promise to pay,Customer requested extension
+CALL0000751,LOAN0001583,2026-07-19,Connected,Customer requested extension
+CALL0000752,LOAN0000507,2026-10-10,No answer,Will pay this week
+CALL0000753,LOAN0002217,2025-08-06,Connected,Income delayed
+CALL0000754,LOAN0001804,2026-03-04,Wrong number,Customer requested extension
+CALL0000755,LOAN0000079,2026-12-09,Wrong number,Could not reach
+CALL0000756,LOAN0002910,2026-01-02,Promise to pay,Will pay this week
+CALL0000757,LOAN0000205,2026-05-17,Connected,Will pay this week
+CALL0000758,LOAN0001929,2026-10-13,No answer,Customer requested extension
+CALL0000759,LOAN0001878,2026-11-20,Promise to pay,Could not reach
+CALL0000760,LOAN0001125,2026-05-15,Wrong number,Disputed amount
+CALL0000761,LOAN0002581,2026-02-23,Connected,Could not reach
+CALL0000762,LOAN0002174,2025-12-17,No answer,Disputed amount
+CALL0000763,LOAN0001020,2026-02-03,Promise to pay,Income delayed
+CALL0000764,LOAN0002833,2026-05-14,Wrong number,Customer requested extension
+CALL0000765,LOAN0001942,2026-05-10,Connected,Could not reach
+CALL0000766,LOAN0002592,2026-12-14,Connected,Will pay this week
+CALL0000767,LOAN0000807,2026-11-11,No answer,Will pay this week
+CALL0000768,LOAN0000604,2026-07-13,Connected,Could not reach
+CALL0000769,LOAN0002154,2026-05-13,Wrong number,Could not reach
+CALL0000770,LOAN0002537,2026-09-15,Connected,Disputed amount
+CALL0000771,LOAN0003155,2026-05-05,No answer,Could not reach
+CALL0000772,LOAN0001357,2026-09-13,No answer,Will pay this week
+CALL0000773,LOAN0001282,2025-09-21,Promise to pay,Will pay this week
+CALL0000774,LOAN0001942,2026-06-21,No answer,Could not reach
+CALL0000775,LOAN0002736,2026-08-22,Connected,Could not reach
+CALL0000776,LOAN0002027,2026-03-03,Connected,Will pay this week
+CALL0000777,LOAN0001532,2026-09-21,Promise to pay,Will pay this week
+CALL0000778,LOAN0002474,2026-07-16,Connected,Will pay this week
+CALL0000779,LOAN0001119,2026-01-20,No answer,Income delayed
+CALL0000780,LOAN0002252,2026-03-11,No answer,Will pay this week
+CALL0000781,LOAN0002532,2026-07-03,Connected,Customer requested extension
+CALL0000782,LOAN0002526,2026-07-13,No answer,Disputed amount
+CALL0000783,LOAN0002095,2026-08-16,Connected,Income delayed
+CALL0000784,LOAN0000122,2026-08-07,Connected,Income delayed
+CALL0000785,LOAN0002495,2026-11-15,No answer,Disputed amount
+CALL0000786,LOAN0001720,2026-05-21,Promise to pay,Will pay this week
+CALL0000787,LOAN0001571,2026-08-14,Promise to pay,Could not reach
+CALL0000788,LOAN0003346,2025-09-14,No answer,Will pay this week
+CALL0000789,LOAN0002950,2026-10-20,No answer,Income delayed
+CALL0000790,LOAN0001793,2026-04-21,No answer,Could not reach
+CALL0000791,LOAN0002943,2025-12-12,Promise to pay,Will pay this week
+CALL0000792,LOAN0002862,2025-09-14,No answer,Could not reach
+CALL0000793,LOAN0000046,2026-07-21,No answer,Could not reach
+CALL0000794,LOAN0001245,2026-07-03,Connected,Disputed amount
+CALL0000795,LOAN0002002,2026-06-11,No answer,Disputed amount
+CALL0000796,LOAN0001391,2026-01-17,No answer,Disputed amount
+CALL0000797,LOAN0000709,2026-12-05,Promise to pay,Customer requested extension
+CALL0000798,LOAN0001839,2025-10-13,Connected,Income delayed
+CALL0000799,LOAN0001288,2026-01-07,No answer,Could not reach
+CALL0000800,LOAN0002702,2026-10-23,Connected,Will pay this week
+CALL0000801,LOAN0000278,2026-05-22,Connected,Disputed amount
+CALL0000802,LOAN0000688,2025-10-25,Promise to pay,Customer requested extension
+CALL0000803,LOAN0002788,2026-01-12,Connected,Disputed amount
+CALL0000804,LOAN0001002,2026-08-20,Promise to pay,Disputed amount
+CALL0000805,LOAN0001807,2026-09-04,Connected,Income delayed
+CALL0000806,LOAN0001384,2026-04-06,Connected,Could not reach
+CALL0000807,LOAN0001417,2026-06-24,Wrong number,Disputed amount
+CALL0000808,LOAN0002862,2026-02-09,Connected,Customer requested extension
+CALL0000809,LOAN0003064,2026-02-13,Connected,Income delayed
+CALL0000810,LOAN0000145,2026-03-10,Promise to pay,Income delayed
+CALL0000811,LOAN0002675,2025-08-03,Promise to pay,Disputed amount
+CALL0000812,LOAN0002202,2026-08-20,Connected,Disputed amount
+CALL0000813,LOAN0001522,2026-03-09,No answer,Disputed amount
+CALL0000814,LOAN0001333,2026-03-20,Promise to pay,Could not reach
+CALL0000815,LOAN0000297,2026-05-18,Connected,Customer requested extension
+CALL0000816,LOAN0000183,2026-07-13,Connected,Could not reach
+CALL0000817,LOAN0002545,2025-10-13,Connected,Customer requested extension
+CALL0000818,LOAN0000279,2026-08-11,No answer,Will pay this week
+CALL0000819,LOAN0001824,2026-03-19,Connected,Income delayed
+CALL0000820,LOAN0002548,2025-12-17,No answer,Income delayed
+CALL0000821,LOAN0000374,2026-04-12,Connected,Customer requested extension
+CALL0000822,LOAN0001541,2026-06-16,Connected,Income delayed
+CALL0000823,LOAN0000547,2027-02-17,No answer,Customer requested extension
+CALL0000824,LOAN0000813,2025-08-24,Promise to pay,Customer requested extension
+CALL0000825,LOAN0000126,2026-07-22,Dispute raised,Customer requested extension
+CALL0000826,LOAN0003245,2026-08-08,No answer,Income delayed
+CALL0000827,LOAN0002705,2026-11-12,Promise to pay,Could not reach
+CALL0000828,LOAN0000739,2026-05-07,Connected,Customer requested extension
+CALL0000829,LOAN0000466,2026-07-24,Connected,Customer requested extension
+CALL0000830,LOAN0002323,2025-10-05,Promise to pay,Could not reach
+CALL0000831,LOAN0001518,2026-09-14,Connected,Could not reach
+CALL0000832,LOAN0002451,2026-01-08,No answer,Could not reach
+CALL0000833,LOAN0001844,2026-04-22,Promise to pay,Customer requested extension
+CALL0000834,LOAN0000983,2026-10-02,Promise to pay,Will pay this week
+CALL0000835,LOAN0001878,2026-10-09,Promise to pay,Could not reach
+CALL0000836,LOAN0002666,2026-04-05,No answer,Disputed amount
+CALL0000837,LOAN0002036,2026-03-23,Dispute raised,Disputed amount
+CALL0000838,LOAN0000649,2026-04-02,Dispute raised,Could not reach
+CALL0000839,LOAN0001081,2026-09-24,No answer,Income delayed
+CALL0000840,LOAN0001677,2025-09-22,Connected,Will pay this week
+CALL0000841,LOAN0002010,2026-10-19,No answer,Could not reach
+CALL0000842,LOAN0001626,2026-03-13,Wrong number,Income delayed
+CALL0000843,LOAN0000428,2025-11-13,Connected,Customer requested extension
+CALL0000844,LOAN0001329,2025-11-05,Connected,Could not reach
+CALL0000845,LOAN0000541,2026-06-03,No answer,Disputed amount
+CALL0000846,LOAN0001148,2026-07-12,No answer,Customer requested extension
+CALL0000847,LOAN0002488,2026-05-13,Connected,Disputed amount
+CALL0000848,LOAN0000313,2026-03-15,Connected,Disputed amount
+CALL0000849,LOAN0000004,2026-05-02,Connected,Customer requested extension
+CALL0000850,LOAN0003145,2026-04-03,Connected,Could not reach
+CALL0000851,LOAN0001999,2026-08-15,Connected,Income delayed
+CALL0000852,LOAN0001160,2026-10-19,No answer,Could not reach
+CALL0000853,LOAN0003168,2026-01-11,Connected,Customer requested extension
+CALL0000854,LOAN0000293,2026-07-12,No answer,Customer requested extension
+CALL0000855,LOAN0002883,2026-12-11,Connected,Disputed amount
+CALL0000856,LOAN0001573,2026-09-06,No answer,Could not reach
+CALL0000857,LOAN0001043,2025-11-23,Connected,Disputed amount
+CALL0000858,LOAN0003069,2026-08-07,Connected,Will pay this week
+CALL0000859,LOAN0002449,2026-05-19,Connected,Will pay this week
+CALL0000860,LOAN0000712,2026-08-04,Promise to pay,Disputed amount
+CALL0000861,LOAN0002757,2026-04-19,Connected,Income delayed
+CALL0000862,LOAN0000555,2026-07-11,Promise to pay,Customer requested extension
+CALL0000863,LOAN0000302,2026-02-11,No answer,Income delayed
+CALL0000864,LOAN0001261,2026-03-22,Wrong number,Income delayed
+CALL0000865,LOAN0001934,2026-12-24,Connected,Disputed amount
+CALL0000866,LOAN0001320,2026-11-03,Connected,Disputed amount
+CALL0000867,LOAN0003353,2026-04-10,No answer,Will pay this week
+CALL0000868,LOAN0000398,2026-04-17,No answer,Will pay this week
+CALL0000869,LOAN0002652,2026-06-04,No answer,Income delayed
+CALL0000870,LOAN0000652,2026-08-19,No answer,Income delayed
+CALL0000871,LOAN0002065,2026-12-04,Connected,Will pay this week
+CALL0000872,LOAN0000266,2026-06-20,Promise to pay,Will pay this week
+CALL0000873,LOAN0002642,2026-04-11,Connected,Disputed amount
+CALL0000874,LOAN0002903,2026-11-02,Dispute raised,Could not reach
+CALL0000875,LOAN0000828,2026-06-06,Connected,Could not reach
+CALL0000876,LOAN0002102,2026-08-08,Connected,Will pay this week
+CALL0000877,LOAN0000758,2026-08-03,Connected,Customer requested extension
+CALL0000878,LOAN0000873,2026-08-12,Promise to pay,Income delayed
+CALL0000879,LOAN0002405,2026-06-10,Connected,Customer requested extension
+CALL0000880,LOAN0001532,2026-04-02,No answer,Could not reach
+CALL0000881,LOAN0001036,2026-02-05,No answer,Disputed amount
+CALL0000882,LOAN0001399,2026-09-04,Promise to pay,Will pay this week
+CALL0000883,LOAN0001230,2026-07-24,Connected,Will pay this week
+CALL0000884,LOAN0000921,2026-05-12,No answer,Income delayed
+CALL0000885,LOAN0003146,2026-02-11,Promise to pay,Disputed amount
+CALL0000886,LOAN0002680,2025-12-04,No answer,Customer requested extension
+CALL0000887,LOAN0001904,2026-08-14,Dispute raised,Income delayed
+CALL0000888,LOAN0002154,2026-03-08,Connected,Customer requested extension
+CALL0000889,LOAN0000685,2026-04-18,Promise to pay,Could not reach
+CALL0000890,LOAN0002358,2026-04-06,No answer,Income delayed
+CALL0000891,LOAN0000491,2026-06-13,Connected,Income delayed
+CALL0000892,LOAN0000291,2026-08-18,No answer,Could not reach
+CALL0000893,LOAN0003318,2026-07-06,Dispute raised,Will pay this week
+CALL0000894,LOAN0000070,2026-09-25,Connected,Will pay this week
+CALL0000895,LOAN0001012,2026-05-12,No answer,Income delayed
+CALL0000896,LOAN0001522,2026-04-21,Wrong number,Disputed amount
+CALL0000897,LOAN0002339,2026-09-06,Connected,Will pay this week
+CALL0000898,LOAN0002926,2026-06-02,Connected,Could not reach
+CALL0000899,LOAN0001109,2026-06-20,Connected,Income delayed
+CALL0000900,LOAN0000221,2026-09-12,Promise to pay,Could not reach
+CALL0000901,LOAN0002536,2026-08-13,Connected,Income delayed
+CALL0000902,LOAN0000050,2026-06-03,Promise to pay,Customer requested extension
+CALL0000903,LOAN0001774,2026-03-12,Promise to pay,Customer requested extension
+CALL0000904,LOAN0002030,2026-12-19,Promise to pay,Disputed amount
+CALL0000905,LOAN0001613,2027-01-20,Connected,Could not reach
+CALL0000906,LOAN0000861,2025-11-15,No answer,Disputed amount
+CALL0000907,LOAN0000943,2026-07-15,No answer,Customer requested extension
+CALL0000908,LOAN0002001,2026-07-22,Wrong number,Could not reach
+CALL0000909,LOAN0002549,2027-01-04,Dispute raised,Could not reach
+CALL0000910,LOAN0002683,2026-05-23,Dispute raised,Income delayed
+CALL0000911,LOAN0002252,2025-12-16,Wrong number,Customer requested extension
+CALL0000912,LOAN0002818,2025-10-04,Promise to pay,Customer requested extension
+CALL0000913,LOAN0002636,2026-03-15,Promise to pay,Could not reach
+CALL0000914,LOAN0000874,2026-09-11,Connected,Could not reach
+CALL0000915,LOAN0000938,2026-05-03,Connected,Income delayed
+CALL0000916,LOAN0000570,2026-06-03,Connected,Income delayed
+CALL0000917,LOAN0002486,2026-02-10,Connected,Will pay this week
+CALL0000918,LOAN0003182,2026-09-17,Connected,Income delayed
+CALL0000919,LOAN0001933,2025-12-13,Connected,Income delayed
+CALL0000920,LOAN0001855,2026-01-17,Connected,Could not reach
+CALL0000921,LOAN0000610,2027-01-04,Wrong number,Disputed amount
+CALL0000922,LOAN0001041,2026-03-24,Promise to pay,Could not reach
+CALL0000923,LOAN0002989,2026-09-07,Connected,Income delayed
+CALL0000924,LOAN0000373,2026-04-02,Promise to pay,Could not reach
+CALL0000925,LOAN0001147,2026-05-12,No answer,Customer requested extension
+CALL0000926,LOAN0000897,2026-09-18,No answer,Could not reach
+CALL0000927,LOAN0002592,2027-01-04,No answer,Income delayed
+CALL0000928,LOAN0000230,2026-09-21,Wrong number,Disputed amount
+CALL0000929,LOAN0002863,2026-08-21,No answer,Could not reach
+CALL0000930,LOAN0001708,2025-11-07,Dispute raised,Will pay this week
+CALL0000931,LOAN0001544,2026-01-23,Connected,Could not reach
+CALL0000932,LOAN0001824,2026-07-17,Wrong number,Customer requested extension
+CALL0000933,LOAN0001530,2025-10-20,No answer,Income delayed
+CALL0000934,LOAN0001670,2026-12-08,No answer,Disputed amount
+CALL0000935,LOAN0000048,2026-05-07,Connected,Disputed amount
+CALL0000936,LOAN0003155,2026-11-16,No answer,Disputed amount
+CALL0000937,LOAN0003107,2026-05-02,Connected,Customer requested extension
+CALL0000938,LOAN0002929,2026-07-04,Promise to pay,Disputed amount
+CALL0000939,LOAN0002199,2026-08-11,Connected,Could not reach
+CALL0000940,LOAN0002244,2026-07-04,Promise to pay,Could not reach
+CALL0000941,LOAN0001718,2026-06-21,Connected,Customer requested extension
+CALL0000942,LOAN0002252,2026-02-22,No answer,Income delayed
+CALL0000943,LOAN0000669,2026-09-23,No answer,Income delayed
+CALL0000944,LOAN0000563,2025-11-25,No answer,Income delayed
+CALL0000945,LOAN0003349,2026-04-23,Connected,Will pay this week
+CALL0000946,LOAN0000677,2025-09-07,Promise to pay,Disputed amount
+CALL0000947,LOAN0002324,2026-08-17,No answer,Will pay this week
+CALL0000948,LOAN0002106,2026-08-12,Connected,Could not reach
+CALL0000949,LOAN0000881,2026-03-06,Promise to pay,Disputed amount
+CALL0000950,LOAN0000568,2026-02-15,Connected,Customer requested extension
+CALL0000951,LOAN0001015,2027-02-07,Promise to pay,Income delayed
+CALL0000952,LOAN0000247,2025-09-24,Connected,Income delayed
+CALL0000953,LOAN0001863,2026-01-13,No answer,Income delayed
+CALL0000954,LOAN0000207,2026-04-23,No answer,Income delayed
+CALL0000955,LOAN0002539,2026-01-06,Connected,Could not reach
+CALL0000956,LOAN0002572,2026-10-16,Connected,Will pay this week
+CALL0000957,LOAN0002858,2026-04-09,Promise to pay,Disputed amount
+CALL0000958,LOAN0003236,2026-02-17,Connected,Disputed amount
+CALL0000959,LOAN0002390,2026-06-22,Connected,Could not reach
+CALL0000960,LOAN0000487,2026-09-19,Promise to pay,Disputed amount
+CALL0000961,LOAN0003236,2025-10-06,No answer,Customer requested extension
+CALL0000962,LOAN0001727,2026-01-09,Connected,Disputed amount
+CALL0000963,LOAN0003327,2026-10-06,No answer,Will pay this week
+CALL0000964,LOAN0001821,2026-08-04,Wrong number,Customer requested extension
+CALL0000965,LOAN0001549,2026-03-20,No answer,Could not reach
+CALL0000966,LOAN0000658,2025-09-06,Connected,Disputed amount
+CALL0000967,LOAN0002804,2025-11-17,Dispute raised,Could not reach
+CALL0000968,LOAN0002971,2026-06-09,Connected,Will pay this week
+CALL0000969,LOAN0002963,2026-03-09,No answer,Could not reach
+CALL0000970,LOAN0003418,2026-07-07,No answer,Customer requested extension
+CALL0000971,LOAN0000075,2026-07-06,Connected,Will pay this week
+CALL0000972,LOAN0000197,2026-09-14,Promise to pay,Will pay this week
+CALL0000973,LOAN0000757,2026-06-04,Dispute raised,Will pay this week
+CALL0000974,LOAN0002492,2025-08-08,Promise to pay,Income delayed
+CALL0000975,LOAN0002562,2026-08-07,Wrong number,Disputed amount
+CALL0000976,LOAN0001598,2025-11-19,Promise to pay,Customer requested extension
+CALL0000977,LOAN0000437,2026-02-25,No answer,Income delayed
+CALL0000978,LOAN0000251,2026-09-16,No answer,Customer requested extension
+CALL0000979,LOAN0001546,2026-04-10,No answer,Could not reach
+CALL0000980,LOAN0000179,2026-02-16,Promise to pay,Income delayed
+CALL0000981,LOAN0001549,2025-12-02,Promise to pay,Income delayed
+CALL0000982,LOAN0000276,2026-06-24,Wrong number,Disputed amount
+CALL0000983,LOAN0003277,2026-10-02,Dispute raised,Will pay this week
+CALL0000984,LOAN0001940,2026-10-04,No answer,Could not reach
+CALL0000985,LOAN0000511,2026-06-19,Connected,Customer requested extension
+CALL0000986,LOAN0001474,2026-08-16,No answer,Will pay this week
+CALL0000987,LOAN0002661,2026-01-03,No answer,Will pay this week
+CALL0000988,LOAN0001983,2026-08-24,Connected,Customer requested extension
+CALL0000989,LOAN0002922,2026-04-21,Connected,Disputed amount
+CALL0000990,LOAN0001804,2026-01-06,No answer,Customer requested extension
+CALL0000991,LOAN0002426,2026-10-17,No answer,Could not reach
+CALL0000992,LOAN0001292,2026-07-23,Connected,Income delayed
+CALL0000993,LOAN0001070,2026-10-22,Connected,Could not reach
+CALL0000994,LOAN0003041,2026-01-12,No answer,Will pay this week
+CALL0000995,LOAN0001648,2026-09-05,Connected,Could not reach
+CALL0000996,LOAN0001910,2025-12-23,Dispute raised,Customer requested extension
+CALL0000997,LOAN0000554,2026-09-04,Dispute raised,Income delayed
+CALL0000998,LOAN0001218,2026-01-24,Connected,Could not reach
+CALL0000999,LOAN0003297,2025-10-02,No answer,Will pay this week
+CALL0001000,LOAN0002552,2025-11-22,Promise to pay,Could not reach
+CALL0001001,LOAN0002649,2025-12-09,Connected,Customer requested extension
+CALL0001002,LOAN0000593,2026-03-17,No answer,Will pay this week
+CALL0001003,LOAN0000203,2026-08-04,No answer,Will pay this week
+CALL0001004,LOAN0000422,2026-05-14,Wrong number,Will pay this week
+CALL0001005,LOAN0003134,2026-08-17,Promise to pay,Could not reach
+CALL0001006,LOAN0001023,2026-09-14,Dispute raised,Disputed amount
+CALL0001007,LOAN0002198,2025-10-05,Dispute raised,Customer requested extension
+CALL0001008,LOAN0001192,2026-05-03,Connected,Disputed amount
+CALL0001009,LOAN0002494,2026-12-11,No answer,Could not reach
+CALL0001010,LOAN0001571,2026-11-24,Wrong number,Disputed amount
+CALL0001011,LOAN0002754,2026-05-17,Connected,Will pay this week
+CALL0001012,LOAN0001746,2026-07-12,No answer,Income delayed
+CALL0001013,LOAN0000165,2026-01-14,Connected,Will pay this week
+CALL0001014,LOAN0000853,2026-10-12,Promise to pay,Customer requested extension
+CALL0001015,LOAN0001349,2026-12-07,Connected,Could not reach
+CALL0001016,LOAN0001580,2026-06-16,No answer,Income delayed
+CALL0001017,LOAN0000934,2026-07-09,Promise to pay,Could not reach
+CALL0001018,LOAN0001791,2026-06-10,Wrong number,Income delayed
+CALL0001019,LOAN0001425,2026-06-09,No answer,Income delayed
+CALL0001020,LOAN0001023,2026-08-12,No answer,Income delayed
+CALL0001021,LOAN0000101,2025-12-13,Promise to pay,Disputed amount
+CALL0001022,LOAN0003358,2026-08-25,Promise to pay,Will pay this week
+CALL0001023,LOAN0003259,2026-08-11,Promise to pay,Will pay this week
+CALL0001024,LOAN0002376,2026-09-10,Promise to pay,Disputed amount
+CALL0001025,LOAN0000763,2025-10-17,No answer,Customer requested extension
+CALL0001026,LOAN0002091,2025-11-20,Wrong number,Could not reach
+CALL0001027,LOAN0002107,2026-03-24,No answer,Income delayed
+CALL0001028,LOAN0002050,2026-01-21,Wrong number,Disputed amount
+CALL0001029,LOAN0000880,2025-09-15,Promise to pay,Customer requested extension
+CALL0001030,LOAN0000385,2027-01-05,No answer,Disputed amount
+CALL0001031,LOAN0000101,2026-01-05,Dispute raised,Customer requested extension
+CALL0001032,LOAN0001292,2026-11-25,Connected,Could not reach
+CALL0001033,LOAN0002910,2026-07-15,Promise to pay,Customer requested extension
+CALL0001034,LOAN0002536,2026-10-24,Connected,Income delayed
+CALL0001035,LOAN0003095,2026-04-02,Promise to pay,Will pay this week
+CALL0001036,LOAN0000414,2026-02-12,Wrong number,Customer requested extension
+CALL0001037,LOAN0001075,2025-12-06,Dispute raised,Could not reach
+CALL0001038,LOAN0000747,2026-07-25,Connected,Customer requested extension
+CALL0001039,LOAN0003419,2026-05-09,Connected,Income delayed
+CALL0001040,LOAN0001462,2025-09-18,Connected,Disputed amount
+CALL0001041,LOAN0002099,2026-09-14,Promise to pay,Disputed amount
+CALL0001042,LOAN0002492,2026-02-25,Dispute raised,Disputed amount
+CALL0001043,LOAN0002268,2026-05-02,Dispute raised,Will pay this week
+CALL0001044,LOAN0002788,2025-09-11,Promise to pay,Income delayed
+CALL0001045,LOAN0000314,2025-11-17,Dispute raised,Disputed amount
+CALL0001046,LOAN0000864,2026-10-08,Promise to pay,Will pay this week
+CALL0001047,LOAN0000236,2025-11-03,Dispute raised,Will pay this week
+CALL0001048,LOAN0001133,2026-02-23,Promise to pay,Disputed amount
+CALL0001049,LOAN0002061,2026-08-11,Connected,Will pay this week
+CALL0001050,LOAN0002123,2026-06-08,No answer,Income delayed
+CALL0001051,LOAN0003222,2025-12-08,No answer,Income delayed
+CALL0001052,LOAN0003012,2025-12-18,Connected,Will pay this week
+CALL0001053,LOAN0003289,2026-06-07,No answer,Disputed amount
+CALL0001054,LOAN0000380,2026-02-20,No answer,Will pay this week
+CALL0001055,LOAN0002929,2026-09-15,Connected,Disputed amount
+CALL0001056,LOAN0003019,2026-09-16,Wrong number,Income delayed
+CALL0001057,LOAN0002714,2026-07-14,No answer,Will pay this week
+CALL0001058,LOAN0001375,2026-03-07,No answer,Disputed amount
+CALL0001059,LOAN0002908,2026-02-20,No answer,Will pay this week
+CALL0001060,LOAN0002593,2026-01-13,Connected,Could not reach
+CALL0001061,LOAN0002289,2026-08-17,No answer,Will pay this week
+CALL0001062,LOAN0003200,2026-05-19,Promise to pay,Could not reach
+CALL0001063,LOAN0002912,2026-05-23,Promise to pay,Will pay this week
+CALL0001064,LOAN0000520,2026-07-04,Promise to pay,Could not reach
+CALL0001065,LOAN0000703,2027-01-13,Connected,Customer requested extension
+CALL0001066,LOAN0001821,2026-06-19,Connected,Disputed amount
+CALL0001067,LOAN0002053,2026-04-02,Promise to pay,Income delayed
+CALL0001068,LOAN0000402,2026-07-03,Connected,Customer requested extension
+CALL0001069,LOAN0003027,2026-08-16,No answer,Could not reach
+CALL0001070,LOAN0000323,2026-04-21,Connected,Could not reach
+CALL0001071,LOAN0001303,2026-04-21,Connected,Customer requested extension
+CALL0001072,LOAN0000180,2025-11-04,No answer,Will pay this week
+CALL0001073,LOAN0002080,2026-08-10,Connected,Income delayed
+CALL0001074,LOAN0003219,2025-10-19,Connected,Could not reach
+CALL0001075,LOAN0000332,2026-10-12,Connected,Could not reach
+CALL0001076,LOAN0002718,2026-08-14,Connected,Will pay this week
+CALL0001077,LOAN0003384,2026-05-21,Dispute raised,Customer requested extension
+CALL0001078,LOAN0002427,2026-05-02,Dispute raised,Disputed amount
+CALL0001079,LOAN0001770,2026-07-21,No answer,Will pay this week
+CALL0001080,LOAN0000572,2026-03-24,No answer,Will pay this week
+CALL0001081,LOAN0000223,2026-06-24,Promise to pay,Could not reach
+CALL0001082,LOAN0002074,2026-08-20,Dispute raised,Will pay this week
+CALL0001083,LOAN0000708,2026-09-21,Connected,Customer requested extension
+CALL0001084,LOAN0003086,2025-11-12,Wrong number,Disputed amount
+CALL0001085,LOAN0002147,2025-12-16,Promise to pay,Could not reach
+CALL0001086,LOAN0002106,2026-05-06,No answer,Will pay this week
+CALL0001087,LOAN0001188,2025-09-17,No answer,Customer requested extension
+CALL0001088,LOAN0000750,2026-12-16,Connected,Will pay this week
+CALL0001089,LOAN0000759,2025-11-21,Dispute raised,Disputed amount
+CALL0001090,LOAN0000109,2026-07-25,No answer,Customer requested extension
+CALL0001091,LOAN0000501,2026-02-07,Connected,Disputed amount
+CALL0001092,LOAN0002835,2025-10-16,Connected,Will pay this week
+CALL0001093,LOAN0003002,2026-01-22,No answer,Could not reach
+CALL0001094,LOAN0001405,2026-04-21,Connected,Could not reach
+CALL0001095,LOAN0000385,2026-11-20,No answer,Could not reach
+CALL0001096,LOAN0001657,2026-11-10,Connected,Income delayed
+CALL0001097,LOAN0001413,2026-05-23,Connected,Will pay this week
+CALL0001098,LOAN0001439,2026-07-08,Wrong number,Customer requested extension
+CALL0001099,LOAN0002129,2026-10-02,Promise to pay,Disputed amount
+CALL0001100,LOAN0002752,2026-07-17,Promise to pay,Customer requested extension
+CALL0001101,LOAN0003251,2026-05-04,Promise to pay,Customer requested extension
+CALL0001102,LOAN0001793,2025-10-23,No answer,Could not reach
+CALL0001103,LOAN0003153,2026-04-19,Wrong number,Customer requested extension
+CALL0001104,LOAN0002027,2026-08-13,Connected,Could not reach
+CALL0001105,LOAN0002490,2026-08-25,Connected,Will pay this week
+CALL0001106,LOAN0003397,2026-05-13,Connected,Will pay this week
+CALL0001107,LOAN0000531,2027-01-10,Promise to pay,Could not reach
+CALL0001108,LOAN0002108,2025-12-18,Wrong number,Will pay this week
+CALL0001109,LOAN0002107,2026-05-05,No answer,Income delayed
+CALL0001110,LOAN0001668,2025-12-09,Connected,Customer requested extension
+CALL0001111,LOAN0003056,2026-08-12,Connected,Disputed amount
+CALL0001112,LOAN0001789,2026-07-04,Promise to pay,Disputed amount
+CALL0001113,LOAN0000908,2026-03-10,Promise to pay,Income delayed
+CALL0001114,LOAN0002647,2026-02-25,No answer,Will pay this week
+CALL0001115,LOAN0002142,2025-11-17,Promise to pay,Customer requested extension
+CALL0001116,LOAN0003369,2026-05-04,Connected,Could not reach
+CALL0001117,LOAN0003227,2026-07-25,No answer,Could not reach
+CALL0001118,LOAN0002534,2026-01-02,Promise to pay,Will pay this week
+CALL0001119,LOAN0001216,2025-12-18,Promise to pay,Disputed amount
+CALL0001120,LOAN0001942,2026-08-02,Promise to pay,Could not reach
+CALL0001121,LOAN0000731,2026-03-09,No answer,Disputed amount
+CALL0001122,LOAN0000326,2026-05-17,Connected,Could not reach
+CALL0001123,LOAN0001322,2026-11-21,Wrong number,Could not reach
+CALL0001124,LOAN0002737,2026-03-21,Promise to pay,Will pay this week
+CALL0001125,LOAN0000942,2026-07-11,Connected,Could not reach
+CALL0001126,LOAN0000047,2026-06-19,Promise to pay,Income delayed
+CALL0001127,LOAN0000320,2026-03-02,Connected,Customer requested extension
+CALL0001128,LOAN0000981,2026-08-09,No answer,Disputed amount
+CALL0001129,LOAN0000061,2026-05-20,Connected,Customer requested extension
+CALL0001130,LOAN0001662,2026-10-13,Connected,Could not reach
+CALL0001131,LOAN0002663,2026-06-05,Connected,Disputed amount
+CALL0001132,LOAN0002888,2026-05-18,Connected,Customer requested extension
+CALL0001133,LOAN0002931,2027-02-18,Promise to pay,Will pay this week
+CALL0001134,LOAN0000823,2026-12-10,Wrong number,Disputed amount
+CALL0001135,LOAN0002646,2026-06-12,Promise to pay,Could not reach
+CALL0001136,LOAN0000345,2026-06-08,Connected,Will pay this week
+CALL0001137,LOAN0001437,2026-03-02,Wrong number,Could not reach
+CALL0001138,LOAN0000205,2026-03-15,Connected,Income delayed
+CALL0001139,LOAN0000470,2026-07-23,Dispute raised,Will pay this week
+CALL0001140,LOAN0001743,2026-09-11,Connected,Customer requested extension
+CALL0001141,LOAN0002688,2026-02-22,Connected,Disputed amount
+CALL0001142,LOAN0000107,2026-05-03,No answer,Could not reach
+CALL0001143,LOAN0002450,2027-02-20,No answer,Could not reach
+CALL0001144,LOAN0003265,2025-08-19,Wrong number,Will pay this week
+CALL0001145,LOAN0002634,2026-06-11,Connected,Could not reach
+CALL0001146,LOAN0002625,2026-01-07,Dispute raised,Could not reach
+CALL0001147,LOAN0001226,2026-04-24,No answer,Could not reach
+CALL0001148,LOAN0002113,2025-12-16,Promise to pay,Will pay this week
+CALL0001149,LOAN0000836,2026-03-14,No answer,Could not reach
+CALL0001150,LOAN0003120,2026-01-11,Connected,Income delayed
+CALL0001151,LOAN0002080,2026-05-19,Dispute raised,Disputed amount
+CALL0001152,LOAN0003041,2026-02-12,Connected,Could not reach
+CALL0001153,LOAN0001448,2026-05-08,Dispute raised,Income delayed
+CALL0001154,LOAN0001398,2025-10-21,Wrong number,Will pay this week
+CALL0001155,LOAN0002888,2026-07-25,Promise to pay,Could not reach
+CALL0001156,LOAN0001910,2026-02-16,Dispute raised,Income delayed
+CALL0001157,LOAN0003035,2026-05-10,Connected,Disputed amount
+CALL0001158,LOAN0002449,2026-09-04,Wrong number,Will pay this week
+CALL0001159,LOAN0002705,2026-09-06,No answer,Disputed amount
+CALL0001160,LOAN0000940,2026-02-22,Connected,Could not reach
+CALL0001161,LOAN0001189,2026-01-16,No answer,Could not reach
+CALL0001162,LOAN0001384,2026-06-11,Wrong number,Customer requested extension
+CALL0001163,LOAN0000363,2026-03-21,No answer,Customer requested extension
+CALL0001164,LOAN0002802,2025-12-16,Connected,Could not reach
+CALL0001165,LOAN0001789,2026-08-17,No answer,Could not reach
+CALL0001166,LOAN0002685,2026-04-12,Connected,Disputed amount
+CALL0001167,LOAN0000076,2026-11-08,Connected,Will pay this week
+CALL0001168,LOAN0002099,2026-08-07,Promise to pay,Customer requested extension
+CALL0001169,LOAN0001271,2026-11-12,Wrong number,Disputed amount
+CALL0001170,LOAN0000673,2026-03-14,Wrong number,Will pay this week
+CALL0001171,LOAN0000371,2026-06-08,Promise to pay,Customer requested extension
+CALL0001172,LOAN0000533,2025-12-20,Connected,Disputed amount
+CALL0001173,LOAN0000156,2025-12-20,Wrong number,Income delayed
+CALL0001174,LOAN0002210,2026-05-15,Connected,Customer requested extension
+CALL0001175,LOAN0002194,2026-09-13,Connected,Could not reach
+CALL0001176,LOAN0002650,2026-10-21,Connected,Could not reach
+CALL0001177,LOAN0000583,2026-07-23,Connected,Disputed amount
+CALL0001178,LOAN0003353,2026-11-25,Promise to pay,Disputed amount
+CALL0001179,LOAN0001058,2026-04-04,Connected,Income delayed
+CALL0001180,LOAN0002812,2026-02-21,Dispute raised,Could not reach
+CALL0001181,LOAN0000820,2026-03-22,No answer,Could not reach
+CALL0001182,LOAN0002536,2026-03-05,Promise to pay,Will pay this week
+CALL0001183,LOAN0003140,2026-10-21,Dispute raised,Could not reach
+CALL0001184,LOAN0001593,2026-07-25,Promise to pay,Income delayed
+CALL0001185,LOAN0002066,2026-06-19,Wrong number,Income delayed
+CALL0001186,LOAN0000941,2026-03-03,No answer,Will pay this week
+CALL0001187,LOAN0001208,2025-12-04,Connected,Disputed amount
+CALL0001188,LOAN0001865,2026-01-07,Wrong number,Income delayed
+CALL0001189,LOAN0002928,2025-12-12,Connected,Could not reach
+CALL0001190,LOAN0000956,2026-10-07,No answer,Will pay this week
+CALL0001191,LOAN0002068,2026-09-21,Connected,Customer requested extension
+CALL0001192,LOAN0001128,2026-03-11,Wrong number,Disputed amount
+CALL0001193,LOAN0003300,2026-07-23,Promise to pay,Disputed amount
+CALL0001194,LOAN0001188,2026-01-15,No answer,Disputed amount
+CALL0001195,LOAN0001525,2025-11-04,Connected,Income delayed
+CALL0001196,LOAN0000144,2026-09-05,Connected,Income delayed
+CALL0001197,LOAN0001741,2026-12-22,Connected,Will pay this week
+CALL0001198,LOAN0001417,2026-12-14,No answer,Could not reach
+CALL0001199,LOAN0002708,2026-04-12,Dispute raised,Income delayed
+CALL0001200,LOAN0002469,2026-02-15,Connected,Will pay this week
+CALL0001201,LOAN0003057,2026-06-19,Dispute raised,Will pay this week
+CALL0001202,LOAN0000397,2025-12-03,No answer,Disputed amount
+CALL0001203,LOAN0002719,2026-10-16,Connected,Could not reach
+CALL0001204,LOAN0002502,2025-11-10,No answer,Could not reach
+CALL0001205,LOAN0001848,2026-07-16,No answer,Disputed amount
+CALL0001206,LOAN0000134,2026-06-07,Connected,Could not reach
+CALL0001207,LOAN0002671,2026-01-10,Promise to pay,Income delayed
+CALL0001208,LOAN0001864,2026-12-06,Promise to pay,Disputed amount
+CALL0001209,LOAN0000857,2026-06-07,Promise to pay,Will pay this week
+CALL0001210,LOAN0002491,2026-02-12,Connected,Could not reach
+CALL0001211,LOAN0001147,2026-10-20,Promise to pay,Customer requested extension
+CALL0001212,LOAN0000823,2026-11-16,Connected,Disputed amount
+CALL0001213,LOAN0001994,2026-07-04,Dispute raised,Will pay this week
+CALL0001214,LOAN0002157,2026-07-22,Connected,Disputed amount
+CALL0001215,LOAN0002569,2026-02-12,Connected,Disputed amount
+CALL0001216,LOAN0002522,2026-04-11,Connected,Income delayed
+CALL0001217,LOAN0000570,2026-02-14,Promise to pay,Income delayed
+CALL0001218,LOAN0001637,2026-04-13,Wrong number,Customer requested extension
+CALL0001219,LOAN0002444,2026-08-04,Promise to pay,Customer requested extension
+CALL0001220,LOAN0002134,2026-10-04,Promise to pay,Customer requested extension
+CALL0001221,LOAN0000521,2026-06-10,Connected,Disputed amount
+CALL0001222,LOAN0001436,2026-02-22,Wrong number,Customer requested extension
+CALL0001223,LOAN0001556,2026-05-19,No answer,Disputed amount
+CALL0001224,LOAN0002851,2026-01-25,No answer,Disputed amount
+CALL0001225,LOAN0001711,2026-02-07,Connected,Disputed amount
+CALL0001226,LOAN0001580,2026-08-14,Dispute raised,Will pay this week
+CALL0001227,LOAN0000450,2026-03-16,No answer,Could not reach
+CALL0001228,LOAN0000652,2026-04-16,Promise to pay,Income delayed
+CALL0001229,LOAN0000322,2026-03-06,Connected,Income delayed
+CALL0001230,LOAN0000414,2026-06-08,Promise to pay,Disputed amount
+CALL0001231,LOAN0001207,2026-03-06,Wrong number,Income delayed
+CALL0001232,LOAN0001302,2026-09-21,No answer,Customer requested extension
+CALL0001233,LOAN0001722,2026-09-23,No answer,Customer requested extension
+CALL0001234,LOAN0001850,2026-08-18,Connected,Customer requested extension
+CALL0001235,LOAN0000168,2026-03-13,Dispute raised,Income delayed
+CALL0001236,LOAN0000692,2026-08-13,Connected,Will pay this week
+CALL0001237,LOAN0002944,2026-07-24,Connected,Could not reach
+CALL0001238,LOAN0000680,2026-08-13,Connected,Income delayed
+CALL0001239,LOAN0001632,2025-11-19,No answer,Customer requested extension
+CALL0001240,LOAN0001269,2026-05-20,Connected,Customer requested extension
+CALL0001241,LOAN0003326,2026-02-03,No answer,Will pay this week
+CALL0001242,LOAN0000967,2026-02-04,No answer,Could not reach
+CALL0001243,LOAN0002826,2026-04-16,No answer,Disputed amount
+CALL0001244,LOAN0000017,2026-05-14,Promise to pay,Could not reach
+CALL0001245,LOAN0002237,2026-07-09,Wrong number,Could not reach
+CALL0001246,LOAN0002923,2026-04-12,Connected,Disputed amount
+CALL0001247,LOAN0000474,2026-10-12,Wrong number,Income delayed
+CALL0001248,LOAN0002573,2026-08-13,No answer,Could not reach
+CALL0001249,LOAN0000224,2026-05-06,Connected,Disputed amount
+CALL0001250,LOAN0000918,2025-12-19,Wrong number,Income delayed
+CALL0001251,LOAN0000778,2026-07-17,Connected,Income delayed
+CALL0001252,LOAN0001053,2026-03-06,Promise to pay,Will pay this week
+CALL0001253,LOAN0003021,2027-01-08,Connected,Will pay this week
+CALL0001254,LOAN0001300,2026-03-03,Connected,Customer requested extension
+CALL0001255,LOAN0002025,2026-06-23,Dispute raised,Disputed amount
+CALL0001256,LOAN0000489,2026-11-19,No answer,Will pay this week
+CALL0001257,LOAN0002502,2025-09-19,Wrong number,Will pay this week
+CALL0001258,LOAN0003264,2026-04-10,Promise to pay,Customer requested extension
+CALL0001259,LOAN0001396,2026-11-04,Connected,Income delayed
+CALL0001260,LOAN0001748,2026-03-15,Connected,Customer requested extension
+CALL0001261,LOAN0001096,2025-08-24,Connected,Disputed amount
+CALL0001262,LOAN0000184,2026-01-23,Connected,Customer requested extension
+CALL0001263,LOAN0000385,2026-08-14,Connected,Could not reach
+CALL0001264,LOAN0002400,2026-08-17,Wrong number,Customer requested extension
+CALL0001265,LOAN0002951,2026-07-24,No answer,Income delayed
+CALL0001266,LOAN0003078,2026-01-12,Connected,Will pay this week
+CALL0001267,LOAN0002157,2026-08-14,No answer,Could not reach
+CALL0001268,LOAN0002249,2026-05-05,No answer,Customer requested extension
+CALL0001269,LOAN0001539,2026-10-09,Promise to pay,Disputed amount
+CALL0001270,LOAN0001012,2026-09-20,Connected,Income delayed
+CALL0001271,LOAN0001077,2026-03-17,Promise to pay,Income delayed
+CALL0001272,LOAN0003069,2026-04-16,Promise to pay,Income delayed
+CALL0001273,LOAN0000284,2026-04-05,Promise to pay,Disputed amount
+CALL0001274,LOAN0000582,2026-05-05,No answer,Disputed amount
+CALL0001275,LOAN0002851,2026-03-02,Dispute raised,Will pay this week
+CALL0001276,LOAN0000563,2026-04-06,Connected,Income delayed
+CALL0001277,LOAN0000363,2026-01-11,Connected,Disputed amount
+CALL0001278,LOAN0001509,2026-08-03,Connected,Could not reach
+CALL0001279,LOAN0001667,2026-11-14,Connected,Income delayed
+CALL0001280,LOAN0002373,2025-11-16,Connected,Income delayed
+CALL0001281,LOAN0001916,2026-07-18,Wrong number,Could not reach
+CALL0001282,LOAN0001418,2026-03-08,No answer,Could not reach
+CALL0001283,LOAN0001000,2026-09-18,Promise to pay,Customer requested extension
+CALL0001284,LOAN0002683,2026-03-25,Promise to pay,Will pay this week
+CALL0001285,LOAN0000421,2026-06-05,Connected,Could not reach
+CALL0001286,LOAN0002351,2026-07-08,Promise to pay,Will pay this week
+CALL0001287,LOAN0002142,2026-03-02,Promise to pay,Could not reach
+CALL0001288,LOAN0001358,2026-08-21,Connected,Could not reach
+CALL0001289,LOAN0000347,2026-10-13,Connected,Income delayed
+CALL0001290,LOAN0002661,2025-08-02,Promise to pay,Will pay this week
+CALL0001291,LOAN0000424,2026-08-15,No answer,Customer requested extension
+CALL0001292,LOAN0002915,2026-01-09,No answer,Will pay this week
+CALL0001293,LOAN0001392,2025-12-24,No answer,Will pay this week
+CALL0001294,LOAN0000961,2026-07-05,Connected,Customer requested extension
+CALL0001295,LOAN0001354,2026-08-13,Connected,Will pay this week
+CALL0001296,LOAN0001312,2026-04-03,No answer,Income delayed
+CALL0001297,LOAN0001509,2026-05-21,No answer,Customer requested extension
+CALL0001298,LOAN0002431,2026-04-17,Connected,Disputed amount
+CALL0001299,LOAN0001155,2026-09-09,No answer,Disputed amount
+CALL0001300,LOAN0001063,2026-04-20,Promise to pay,Income delayed
+CALL0001301,LOAN0002375,2026-09-04,Promise to pay,Will pay this week
+CALL0001302,LOAN0001749,2026-07-02,Connected,Income delayed
+CALL0001303,LOAN0001669,2026-04-04,No answer,Will pay this week
+CALL0001304,LOAN0002468,2027-02-24,No answer,Income delayed
+CALL0001305,LOAN0001434,2026-04-20,Promise to pay,Disputed amount
+CALL0001306,LOAN0001165,2026-07-10,Dispute raised,Will pay this week
+CALL0001307,LOAN0000567,2026-02-04,Promise to pay,Customer requested extension
+CALL0001308,LOAN0001957,2026-08-14,No answer,Will pay this week
+CALL0001309,LOAN0000812,2026-10-18,No answer,Disputed amount
+CALL0001310,LOAN0001369,2025-12-12,Connected,Customer requested extension
+CALL0001311,LOAN0000049,2027-01-05,Promise to pay,Disputed amount
+CALL0001312,LOAN0002613,2026-03-15,Wrong number,Income delayed
+CALL0001313,LOAN0003223,2026-06-14,Promise to pay,Customer requested extension
+CALL0001314,LOAN0002887,2026-01-07,Promise to pay,Customer requested extension
+CALL0001315,LOAN0002822,2026-06-14,Promise to pay,Disputed amount
+CALL0001316,LOAN0000896,2026-04-05,No answer,Customer requested extension
+CALL0001317,LOAN0001230,2026-05-07,No answer,Will pay this week
+CALL0001318,LOAN0000396,2026-05-12,Connected,Will pay this week
+CALL0001319,LOAN0001546,2025-10-25,Wrong number,Customer requested extension
+CALL0001320,LOAN0001520,2026-09-23,Connected,Could not reach
+CALL0001321,LOAN0003186,2026-07-18,No answer,Will pay this week
+CALL0001322,LOAN0003234,2026-07-20,Connected,Income delayed
+CALL0001323,LOAN0000151,2026-10-17,No answer,Will pay this week
+CALL0001324,LOAN0002020,2026-09-23,Connected,Will pay this week
+CALL0001325,LOAN0002649,2026-02-03,No answer,Customer requested extension
+CALL0001326,LOAN0000335,2026-06-03,Promise to pay,Income delayed
+CALL0001327,LOAN0002562,2026-02-21,Connected,Income delayed
+CALL0001328,LOAN0001288,2026-07-21,No answer,Income delayed
+CALL0001329,LOAN0000563,2026-02-25,Connected,Will pay this week
+CALL0001330,LOAN0000420,2026-10-25,No answer,Customer requested extension
+CALL0001331,LOAN0001360,2027-02-06,Connected,Customer requested extension
+CALL0001332,LOAN0000300,2026-01-12,Connected,Income delayed
+CALL0001333,LOAN0003154,2026-09-18,Connected,Could not reach
+CALL0001334,LOAN0001581,2026-05-07,Connected,Will pay this week
+CALL0001335,LOAN0002270,2026-12-12,No answer,Will pay this week
+CALL0001336,LOAN0000675,2026-02-05,No answer,Income delayed
+CALL0001337,LOAN0000603,2026-03-13,No answer,Could not reach
+CALL0001338,LOAN0002245,2026-06-03,Promise to pay,Could not reach
+CALL0001339,LOAN0000675,2026-03-10,No answer,Could not reach
+CALL0001340,LOAN0000656,2026-05-12,Wrong number,Income delayed
+CALL0001341,LOAN0002062,2025-09-15,Connected,Could not reach
+CALL0001342,LOAN0002383,2026-04-11,Connected,Income delayed
+CALL0001343,LOAN0001117,2026-06-15,No answer,Could not reach
+CALL0001344,LOAN0001360,2026-07-22,Wrong number,Disputed amount
+CALL0001345,LOAN0001066,2025-10-22,Connected,Income delayed
+CALL0001346,LOAN0001487,2026-05-23,Connected,Customer requested extension
+CALL0001347,LOAN0000069,2026-04-03,Wrong number,Customer requested extension
+CALL0001348,LOAN0001587,2026-02-09,Dispute raised,Customer requested extension
+CALL0001349,LOAN0002900,2026-05-18,Connected,Customer requested extension
+CALL0001350,LOAN0002833,2026-08-24,No answer,Could not reach
+CALL0001351,LOAN0000141,2026-07-18,No answer,Income delayed
+CALL0001352,LOAN0002065,2026-11-14,Connected,Income delayed
+CALL0001353,LOAN0002701,2026-04-10,No answer,Will pay this week
+CALL0001354,LOAN0001368,2026-07-15,Promise to pay,Could not reach
+CALL0001355,LOAN0002107,2026-08-14,Promise to pay,Will pay this week
+CALL0001356,LOAN0002120,2026-05-03,No answer,Disputed amount
+CALL0001357,LOAN0003311,2025-11-04,No answer,Will pay this week
+CALL0001358,LOAN0001293,2026-04-10,Connected,Will pay this week
+CALL0001359,LOAN0000812,2026-07-12,Promise to pay,Could not reach
+CALL0001360,LOAN0002908,2026-08-06,No answer,Will pay this week
+CALL0001361,LOAN0000017,2026-07-18,No answer,Could not reach
+CALL0001362,LOAN0002033,2026-11-04,No answer,Disputed amount
+CALL0001363,LOAN0000088,2026-07-21,Connected,Disputed amount
+CALL0001364,LOAN0000030,2026-05-17,Promise to pay,Will pay this week
+CALL0001365,LOAN0001358,2026-11-18,Promise to pay,Disputed amount
+CALL0001366,LOAN0002956,2026-12-02,No answer,Income delayed
+CALL0001367,LOAN0003372,2026-03-12,Connected,Income delayed
+CALL0001368,LOAN0001945,2025-11-06,Promise to pay,Customer requested extension
+CALL0001369,LOAN0001992,2026-01-12,Wrong number,Could not reach
+CALL0001370,LOAN0000228,2027-02-20,Promise to pay,Could not reach
+CALL0001371,LOAN0000380,2026-01-25,Promise to pay,Customer requested extension
+CALL0001372,LOAN0000966,2027-01-03,Connected,Customer requested extension
+CALL0001373,LOAN0000626,2026-02-20,No answer,Income delayed
+CALL0001374,LOAN0002182,2026-08-18,Wrong number,Customer requested extension
+CALL0001375,LOAN0001013,2026-06-10,No answer,Could not reach
+CALL0001376,LOAN0001240,2026-04-17,No answer,Will pay this week
+CALL0001377,LOAN0002322,2026-11-22,No answer,Could not reach
+CALL0001378,LOAN0001695,2026-10-16,Dispute raised,Could not reach
+CALL0001379,LOAN0001399,2026-06-20,No answer,Will pay this week
+CALL0001380,LOAN0001337,2026-08-04,Connected,Will pay this week
+CALL0001381,LOAN0002375,2026-06-04,Connected,Income delayed
+CALL0001382,LOAN0000381,2026-08-13,Connected,Disputed amount
+CALL0001383,LOAN0001294,2026-04-19,Connected,Income delayed
+CALL0001384,LOAN0001886,2026-03-15,Connected,Disputed amount
+CALL0001385,LOAN0003373,2026-04-12,Promise to pay,Will pay this week
+CALL0001386,LOAN0002794,2026-08-07,Connected,Could not reach
+CALL0001387,LOAN0001478,2026-08-15,No answer,Could not reach
+CALL0001388,LOAN0003134,2026-09-14,Connected,Disputed amount
+CALL0001389,LOAN0001347,2026-12-15,Wrong number,Will pay this week
+CALL0001390,LOAN0000714,2026-04-03,No answer,Income delayed
+CALL0001391,LOAN0003130,2026-07-16,Promise to pay,Customer requested extension
+CALL0001392,LOAN0000148,2026-06-03,Connected,Customer requested extension
+CALL0001393,LOAN0000319,2026-04-21,Connected,Could not reach
+CALL0001394,LOAN0000112,2026-02-12,Connected,Could not reach
+CALL0001395,LOAN0001007,2026-12-18,Connected,Customer requested extension
+CALL0001396,LOAN0000990,2026-03-11,Connected,Disputed amount
+CALL0001397,LOAN0000145,2026-01-21,Connected,Disputed amount
+CALL0001398,LOAN0000317,2026-09-16,Dispute raised,Disputed amount
+CALL0001399,LOAN0000165,2026-08-20,No answer,Will pay this week
+CALL0001400,LOAN0001612,2026-03-24,Wrong number,Will pay this week
+CALL0001401,LOAN0001115,2026-12-14,No answer,Disputed amount
+CALL0001402,LOAN0000806,2026-08-07,No answer,Customer requested extension
+CALL0001403,LOAN0002357,2026-07-18,Dispute raised,Disputed amount
+CALL0001404,LOAN0000861,2026-03-12,No answer,Customer requested extension
+CALL0001405,LOAN0000230,2026-10-18,Promise to pay,Customer requested extension
+CALL0001406,LOAN0002475,2025-12-14,Dispute raised,Income delayed
+CALL0001407,LOAN0002101,2026-08-04,Dispute raised,Disputed amount
+CALL0001408,LOAN0000962,2026-02-12,Connected,Could not reach
+CALL0001409,LOAN0001950,2025-11-12,Promise to pay,Could not reach
+CALL0001410,LOAN0003208,2025-12-16,Connected,Will pay this week
+CALL0001411,LOAN0000866,2025-11-07,No answer,Income delayed
+CALL0001412,LOAN0000422,2026-07-06,Dispute raised,Will pay this week
+CALL0001413,LOAN0003037,2026-02-16,Promise to pay,Customer requested extension
+CALL0001414,LOAN0001918,2026-05-05,Promise to pay,Disputed amount
+CALL0001415,LOAN0001291,2026-08-20,Connected,Customer requested extension
+CALL0001416,LOAN0002897,2026-04-25,No answer,Customer requested extension
+CALL0001417,LOAN0003371,2025-11-08,Connected,Income delayed
+CALL0001418,LOAN0000736,2026-09-13,Connected,Could not reach
+CALL0001419,LOAN0000185,2026-08-03,Connected,Income delayed
+CALL0001420,LOAN0001209,2026-05-14,Connected,Could not reach
+CALL0001421,LOAN0001821,2026-09-10,Dispute raised,Income delayed
+CALL0001422,LOAN0001172,2026-01-06,Connected,Customer requested extension
+CALL0001423,LOAN0000547,2026-09-22,Wrong number,Customer requested extension
+CALL0001424,LOAN0003145,2025-11-21,Connected,Disputed amount
+CALL0001425,LOAN0000614,2026-07-16,No answer,Disputed amount
+CALL0001426,LOAN0002179,2027-01-13,No answer,Will pay this week
+CALL0001427,LOAN0000505,2026-09-12,Dispute raised,Disputed amount
+CALL0001428,LOAN0003025,2026-05-13,Connected,Could not reach
+CALL0001429,LOAN0001230,2026-10-15,No answer,Will pay this week
+CALL0001430,LOAN0000531,2026-06-03,No answer,Customer requested extension
+CALL0001431,LOAN0001488,2026-07-12,Connected,Could not reach
+CALL0001432,LOAN0000114,2026-02-16,Promise to pay,Disputed amount
+CALL0001433,LOAN0001336,2026-11-22,Promise to pay,Disputed amount
+CALL0001434,LOAN0000967,2025-12-17,Promise to pay,Will pay this week
+CALL0001435,LOAN0001275,2026-02-02,Connected,Could not reach
+CALL0001436,LOAN0001580,2027-01-16,Promise to pay,Will pay this week
+CALL0001437,LOAN0001160,2026-12-16,Wrong number,Customer requested extension
+CALL0001438,LOAN0000354,2026-06-18,Connected,Disputed amount
+CALL0001439,LOAN0002608,2026-06-15,Connected,Customer requested extension
+CALL0001440,LOAN0000681,2026-02-13,No answer,Disputed amount
+CALL0001441,LOAN0002051,2026-05-14,Connected,Income delayed
+CALL0001442,LOAN0000442,2026-11-07,Wrong number,Customer requested extension
+CALL0001443,LOAN0001230,2026-11-22,No answer,Income delayed
+CALL0001444,LOAN0000189,2026-04-11,Promise to pay,Income delayed
+CALL0001445,LOAN0002626,2025-10-12,No answer,Disputed amount
+CALL0001446,LOAN0000494,2026-03-21,No answer,Income delayed
+CALL0001447,LOAN0001325,2026-05-21,Dispute raised,Income delayed
+CALL0001448,LOAN0003096,2026-03-14,No answer,Disputed amount
+CALL0001449,LOAN0000984,2025-12-11,No answer,Will pay this week
+CALL0001450,LOAN0000898,2026-03-23,No answer,Could not reach
+CALL0001451,LOAN0001273,2026-01-19,No answer,Customer requested extension
+CALL0001452,LOAN0002298,2026-11-18,Promise to pay,Could not reach
+CALL0001453,LOAN0002900,2026-03-24,Dispute raised,Disputed amount
+CALL0001454,LOAN0001456,2026-10-09,Promise to pay,Could not reach
+CALL0001455,LOAN0001216,2026-05-06,Connected,Disputed amount
+CALL0001456,LOAN0002071,2026-03-04,Connected,Will pay this week
+CALL0001457,LOAN0001720,2026-03-06,Dispute raised,Disputed amount
+CALL0001458,LOAN0000885,2026-02-25,No answer,Income delayed
+CALL0001459,LOAN0001062,2026-04-21,Wrong number,Customer requested extension
+CALL0001460,LOAN0000341,2026-01-14,Promise to pay,Income delayed
+CALL0001461,LOAN0003399,2025-12-08,Promise to pay,Customer requested extension
+CALL0001462,LOAN0001215,2026-11-14,Wrong number,Income delayed
+CALL0001463,LOAN0001071,2026-07-08,No answer,Customer requested extension
+CALL0001464,LOAN0000603,2026-01-03,Promise to pay,Disputed amount
+CALL0001465,LOAN0001903,2026-07-02,Promise to pay,Could not reach
+CALL0001466,LOAN0000644,2026-03-14,Connected,Could not reach
+CALL0001467,LOAN0000658,2026-01-11,Promise to pay,Disputed amount
+CALL0001468,LOAN0000318,2026-08-25,Connected,Income delayed
+CALL0001469,LOAN0002878,2026-07-22,Dispute raised,Disputed amount
+CALL0001470,LOAN0002859,2026-03-03,Connected,Disputed amount
+CALL0001471,LOAN0001218,2026-05-10,No answer,Will pay this week
+CALL0001472,LOAN0002479,2026-05-20,Connected,Could not reach
+CALL0001473,LOAN0000946,2026-02-13,No answer,Income delayed
+CALL0001474,LOAN0001773,2026-06-12,Promise to pay,Will pay this week
+CALL0001475,LOAN0000833,2026-06-02,Wrong number,Could not reach
+CALL0001476,LOAN0002856,2026-04-06,Promise to pay,Customer requested extension
+CALL0001477,LOAN0001924,2026-06-21,Connected,Disputed amount
+CALL0001478,LOAN0002773,2026-04-23,Promise to pay,Disputed amount
+CALL0001479,LOAN0002599,2026-04-17,Connected,Could not reach
+CALL0001480,LOAN0000431,2026-11-19,Promise to pay,Disputed amount
+CALL0001481,LOAN0000316,2025-09-02,No answer,Will pay this week
+CALL0001482,LOAN0003376,2026-07-18,No answer,Will pay this week
+CALL0001483,LOAN0002270,2026-10-25,Connected,Income delayed
+CALL0001484,LOAN0001545,2026-06-20,Connected,Could not reach
+CALL0001485,LOAN0001684,2027-02-14,Connected,Disputed amount
+CALL0001486,LOAN0002826,2025-10-20,No answer,Disputed amount
+CALL0001487,LOAN0002739,2026-01-12,Wrong number,Customer requested extension
+CALL0001488,LOAN0001504,2026-01-18,Promise to pay,Could not reach
+CALL0001489,LOAN0001260,2026-07-16,No answer,Customer requested extension
+CALL0001490,LOAN0000840,2026-02-11,No answer,Disputed amount
+CALL0001491,LOAN0002631,2026-07-05,No answer,Could not reach
+CALL0001492,LOAN0003141,2026-01-11,Promise to pay,Could not reach
+CALL0001493,LOAN0002188,2025-10-08,Promise to pay,Could not reach
+CALL0001494,LOAN0002320,2025-10-21,Connected,Customer requested extension
+CALL0001495,LOAN0001339,2026-02-18,Dispute raised,Could not reach
+CALL0001496,LOAN0003114,2026-08-10,No answer,Income delayed
+CALL0001497,LOAN0003224,2026-02-08,Dispute raised,Income delayed
+CALL0001498,LOAN0001016,2026-04-04,No answer,Income delayed
+CALL0001499,LOAN0000722,2025-09-15,Promise to pay,Will pay this week
+CALL0001500,LOAN0001905,2026-08-03,No answer,Could not reach
+CALL0001501,LOAN0001399,2026-12-11,Promise to pay,Could not reach
+CALL0001502,LOAN0000533,2026-02-04,Connected,Income delayed
+CALL0001503,LOAN0001289,2026-06-06,No answer,Will pay this week
+CALL0001504,LOAN0001494,2026-06-02,Wrong number,Income delayed
+CALL0001505,LOAN0001329,2026-02-17,No answer,Will pay this week
+CALL0001506,LOAN0001744,2026-07-19,Connected,Could not reach
+CALL0001507,LOAN0002503,2026-01-24,Promise to pay,Will pay this week
+CALL0001508,LOAN0000658,2026-04-11,Connected,Could not reach
+CALL0001509,LOAN0000069,2026-01-10,Wrong number,Income delayed
+CALL0001510,LOAN0002949,2026-06-19,Dispute raised,Income delayed
+CALL0001511,LOAN0002094,2026-06-20,Connected,Will pay this week
+CALL0001512,LOAN0001785,2026-08-05,Connected,Income delayed
+CALL0001513,LOAN0001070,2026-07-15,No answer,Disputed amount
+CALL0001514,LOAN0000690,2026-04-13,No answer,Disputed amount
+CALL0001515,LOAN0001299,2025-10-23,No answer,Will pay this week
+CALL0001516,LOAN0001422,2026-02-16,Dispute raised,Income delayed
+CALL0001517,LOAN0001129,2025-12-10,Wrong number,Income delayed
+CALL0001518,LOAN0001687,2026-07-02,No answer,Disputed amount
+CALL0001519,LOAN0001064,2026-05-05,Connected,Income delayed
+CALL0001520,LOAN0003357,2026-11-22,Connected,Will pay this week
+CALL0001521,LOAN0002420,2026-08-08,No answer,Customer requested extension
+CALL0001522,LOAN0003392,2025-12-09,No answer,Income delayed
+CALL0001523,LOAN0000558,2026-04-19,Connected,Customer requested extension
+CALL0001524,LOAN0003183,2026-07-05,No answer,Income delayed
+CALL0001525,LOAN0003369,2025-11-25,Wrong number,Could not reach
+CALL0001526,LOAN0000234,2026-03-05,No answer,Disputed amount
+CALL0001527,LOAN0001770,2026-12-06,Promise to pay,Income delayed
+CALL0001528,LOAN0001859,2026-08-06,Connected,Could not reach
+CALL0001529,LOAN0002327,2026-05-24,Wrong number,Income delayed
+CALL0001530,LOAN0000223,2027-01-08,Promise to pay,Income delayed
+CALL0001531,LOAN0001759,2026-02-23,No answer,Could not reach
+CALL0001532,LOAN0000727,2025-12-04,Connected,Customer requested extension
+CALL0001533,LOAN0001574,2026-11-21,Connected,Income delayed
+CALL0001534,LOAN0001467,2026-07-17,No answer,Customer requested extension
+CALL0001535,LOAN0002612,2026-06-24,Promise to pay,Disputed amount
+CALL0001536,LOAN0001916,2026-08-12,Connected,Income delayed
+CALL0001537,LOAN0000851,2026-07-09,Wrong number,Income delayed
+CALL0001538,LOAN0000117,2026-06-22,Promise to pay,Income delayed
+CALL0001539,LOAN0001905,2026-12-05,No answer,Will pay this week
+CALL0001540,LOAN0003251,2026-02-20,No answer,Customer requested extension
+CALL0001541,LOAN0001713,2026-07-18,No answer,Disputed amount
+CALL0001542,LOAN0001550,2026-03-16,Promise to pay,Customer requested extension
+CALL0001543,LOAN0001291,2026-07-13,Promise to pay,Disputed amount
+CALL0001544,LOAN0000501,2026-06-17,No answer,Income delayed
+CALL0001545,LOAN0000732,2025-10-11,Connected,Will pay this week
+CALL0001546,LOAN0001412,2026-02-16,Connected,Customer requested extension
+CALL0001547,LOAN0003295,2026-08-15,No answer,Will pay this week
+CALL0001548,LOAN0002593,2026-05-09,No answer,Could not reach
+CALL0001549,LOAN0001443,2026-04-02,No answer,Income delayed
+CALL0001550,LOAN0002071,2025-09-02,Promise to pay,Income delayed
+CALL0001551,LOAN0002851,2026-07-17,Connected,Income delayed
+CALL0001552,LOAN0001951,2026-05-03,Promise to pay,Will pay this week
+CALL0001553,LOAN0002291,2026-07-11,Dispute raised,Disputed amount
+CALL0001554,LOAN0002503,2025-10-06,Connected,Will pay this week
+CALL0001555,LOAN0000541,2026-08-11,Promise to pay,Customer requested extension
+CALL0001556,LOAN0001429,2026-07-14,Connected,Disputed amount
+CALL0001557,LOAN0001100,2026-06-21,Connected,Disputed amount
+CALL0001558,LOAN0001390,2026-08-09,Promise to pay,Disputed amount
+CALL0001559,LOAN0002513,2026-09-22,Connected,Will pay this week
+CALL0001560,LOAN0000548,2026-11-21,Wrong number,Disputed amount
+CALL0001561,LOAN0001933,2026-04-12,Connected,Will pay this week
+CALL0001562,LOAN0000832,2026-07-12,No answer,Income delayed
+CALL0001563,LOAN0003383,2026-03-08,No answer,Could not reach
+CALL0001564,LOAN0002869,2026-05-11,Connected,Customer requested extension
+CALL0001565,LOAN0001023,2026-10-04,No answer,Customer requested extension
+CALL0001566,LOAN0002671,2026-02-16,Connected,Could not reach
+CALL0001567,LOAN0002891,2026-07-23,Connected,Disputed amount
+CALL0001568,LOAN0001695,2026-11-04,Connected,Will pay this week
+CALL0001569,LOAN0000531,2026-12-20,Promise to pay,Will pay this week
+CALL0001570,LOAN0002169,2026-11-24,Connected,Could not reach
+CALL0001571,LOAN0002724,2026-11-09,Connected,Customer requested extension
+CALL0001572,LOAN0001322,2026-09-13,Connected,Could not reach
+CALL0001573,LOAN0001330,2026-01-23,Promise to pay,Disputed amount
+CALL0001574,LOAN0002404,2026-08-02,No answer,Income delayed
+CALL0001575,LOAN0002088,2026-01-22,No answer,Could not reach
+CALL0001576,LOAN0001909,2026-01-04,Connected,Customer requested extension
+CALL0001577,LOAN0003235,2026-04-24,Wrong number,Income delayed
+CALL0001578,LOAN0003106,2025-11-11,Dispute raised,Could not reach
+CALL0001579,LOAN0000996,2026-03-17,No answer,Customer requested extension
+CALL0001580,LOAN0002074,2026-12-25,Connected,Customer requested extension
+CALL0001581,LOAN0002098,2025-12-19,Connected,Customer requested extension
+CALL0001582,LOAN0001375,2026-06-14,Promise to pay,Could not reach
+CALL0001583,LOAN0002900,2026-01-25,No answer,Income delayed
+CALL0001584,LOAN0001320,2027-01-24,Connected,Will pay this week
+CALL0001585,LOAN0001835,2026-06-20,Connected,Income delayed
+CALL0001586,LOAN0001674,2026-10-02,Connected,Income delayed
+CALL0001587,LOAN0002366,2026-07-14,Connected,Disputed amount
+CALL0001588,LOAN0003193,2025-11-09,No answer,Disputed amount
+CALL0001589,LOAN0002816,2026-02-11,Promise to pay,Could not reach
+CALL0001590,LOAN0000658,2025-11-15,Connected,Disputed amount
+CALL0001591,LOAN0002383,2026-03-02,Connected,Disputed amount
+CALL0001592,LOAN0002976,2026-06-09,Connected,Will pay this week
+CALL0001593,LOAN0000821,2026-08-23,No answer,Disputed amount
+CALL0001594,LOAN0001192,2026-09-06,Connected,Customer requested extension
+CALL0001595,LOAN0000708,2026-11-05,Promise to pay,Disputed amount
+CALL0001596,LOAN0001467,2026-04-14,Promise to pay,Customer requested extension
+CALL0001597,LOAN0001013,2026-12-24,Connected,Income delayed
+CALL0001598,LOAN0001485,2027-02-20,Connected,Income delayed
+CALL0001599,LOAN0002036,2026-07-25,Connected,Will pay this week
+CALL0001600,LOAN0000634,2026-02-16,Promise to pay,Customer requested extension
+CALL0001601,LOAN0002773,2025-12-20,Wrong number,Could not reach
+CALL0001602,LOAN0002851,2025-12-08,Wrong number,Could not reach
+CALL0001603,LOAN0000902,2026-09-15,No answer,Could not reach
+CALL0001604,LOAN0002903,2026-12-19,Connected,Customer requested extension
+CALL0001605,LOAN0001977,2026-11-13,Promise to pay,Could not reach
+CALL0001606,LOAN0000973,2026-11-10,Connected,Income delayed
+CALL0001607,LOAN0002485,2026-07-14,Dispute raised,Will pay this week
+CALL0001608,LOAN0000291,2026-07-07,Connected,Will pay this week
+CALL0001609,LOAN0003017,2026-07-17,Connected,Customer requested extension
+CALL0001610,LOAN0001428,2026-02-09,Promise to pay,Disputed amount
+CALL0001611,LOAN0003055,2026-03-19,Connected,Will pay this week
+CALL0001612,LOAN0002480,2026-10-16,Connected,Income delayed
+CALL0001613,LOAN0000339,2026-02-18,Promise to pay,Customer requested extension
+CALL0001614,LOAN0001467,2026-10-10,Dispute raised,Could not reach
+CALL0001615,LOAN0001944,2026-07-25,Promise to pay,Could not reach
+CALL0001616,LOAN0000328,2026-11-20,Connected,Income delayed
+CALL0001617,LOAN0002099,2026-07-03,No answer,Disputed amount
+CALL0001618,LOAN0000375,2026-09-22,No answer,Could not reach
+CALL0001619,LOAN0000828,2026-07-15,Wrong number,Could not reach
+CALL0001620,LOAN0003093,2026-02-03,Dispute raised,Customer requested extension
+CALL0001621,LOAN0002046,2026-08-06,Promise to pay,Customer requested extension
+CALL0001622,LOAN0001363,2026-07-19,Promise to pay,Will pay this week
+CALL0001623,LOAN0001414,2026-04-22,No answer,Could not reach
+CALL0001624,LOAN0001261,2025-08-12,Promise to pay,Income delayed
+CALL0001625,LOAN0002195,2026-07-08,Connected,Income delayed
+CALL0001626,LOAN0000605,2026-04-08,Promise to pay,Customer requested extension
+CALL0001627,LOAN0002427,2025-10-02,No answer,Income delayed
+CALL0001628,LOAN0003241,2026-02-21,No answer,Will pay this week
+CALL0001629,LOAN0000229,2026-08-15,Connected,Income delayed
+CALL0001630,LOAN0001114,2026-07-23,Connected,Could not reach
+CALL0001631,LOAN0000688,2026-02-24,No answer,Customer requested extension
+CALL0001632,LOAN0001798,2026-08-15,Connected,Income delayed
+CALL0001633,LOAN0001041,2026-05-16,No answer,Could not reach
+CALL0001634,LOAN0003172,2026-06-14,Promise to pay,Customer requested extension
+CALL0001635,LOAN0000182,2026-11-10,No answer,Customer requested extension
+CALL0001636,LOAN0000906,2025-10-13,Connected,Disputed amount
+CALL0001637,LOAN0001196,2026-02-15,Wrong number,Customer requested extension
+CALL0001638,LOAN0000379,2026-09-03,Wrong number,Will pay this week
+CALL0001639,LOAN0000414,2026-04-18,Wrong number,Disputed amount
+CALL0001640,LOAN0002478,2026-08-14,Connected,Customer requested extension
+CALL0001641,LOAN0002504,2026-02-02,Wrong number,Customer requested extension
+CALL0001642,LOAN0001269,2026-06-13,Connected,Will pay this week
+CALL0001643,LOAN0000166,2025-08-04,Promise to pay,Disputed amount
+CALL0001644,LOAN0001607,2027-01-14,No answer,Customer requested extension
+CALL0001645,LOAN0003281,2026-05-15,No answer,Income delayed
+CALL0001646,LOAN0000642,2026-06-19,Connected,Disputed amount
+CALL0001647,LOAN0002059,2026-06-08,Connected,Income delayed
+CALL0001648,LOAN0002376,2026-08-07,Connected,Income delayed
+CALL0001649,LOAN0000696,2026-01-18,Promise to pay,Could not reach
+CALL0001650,LOAN0000560,2026-05-14,Promise to pay,Disputed amount
+CALL0001651,LOAN0003187,2026-03-19,Dispute raised,Disputed amount
+CALL0001652,LOAN0001646,2026-11-21,Connected,Could not reach
+CALL0001653,LOAN0000604,2026-06-23,Promise to pay,Disputed amount
+CALL0001654,LOAN0002304,2026-09-18,No answer,Customer requested extension
+CALL0001655,LOAN0000046,2026-03-11,Promise to pay,Disputed amount
+CALL0001656,LOAN0000917,2025-11-18,Promise to pay,Income delayed
+CALL0001657,LOAN0000155,2026-05-11,Dispute raised,Will pay this week
+CALL0001658,LOAN0002847,2026-04-13,Dispute raised,Disputed amount
+CALL0001659,LOAN0002856,2026-03-03,Connected,Could not reach
+CALL0001660,LOAN0002741,2026-11-18,Promise to pay,Will pay this week
+CALL0001661,LOAN0000236,2026-04-19,Connected,Income delayed
+CALL0001662,LOAN0002083,2026-03-23,Connected,Could not reach
+CALL0001663,LOAN0002390,2026-08-22,Connected,Will pay this week
+CALL0001664,LOAN0000089,2026-01-24,No answer,Customer requested extension
+CALL0001665,LOAN0003370,2026-10-20,Promise to pay,Will pay this week
+CALL0001666,LOAN0003312,2026-10-06,Promise to pay,Disputed amount
+CALL0001667,LOAN0002291,2026-06-08,Connected,Could not reach
+CALL0001668,LOAN0001197,2026-06-05,No answer,Customer requested extension
+CALL0001669,LOAN0001404,2026-07-13,Dispute raised,Could not reach
+CALL0001670,LOAN0001019,2026-01-06,Wrong number,Customer requested extension
+CALL0001671,LOAN0002829,2026-06-08,No answer,Income delayed
+CALL0001672,LOAN0003162,2026-01-05,No answer,Disputed amount
+CALL0001673,LOAN0002900,2026-02-02,No answer,Will pay this week
+CALL0001674,LOAN0002921,2026-09-20,Promise to pay,Disputed amount
+CALL0001675,LOAN0000843,2026-06-23,Connected,Income delayed
+CALL0001676,LOAN0001331,2026-01-02,No answer,Will pay this week
+CALL0001677,LOAN0002805,2026-10-11,Promise to pay,Customer requested extension
+CALL0001678,LOAN0002829,2026-08-16,Dispute raised,Disputed amount
+CALL0001679,LOAN0002232,2027-01-13,Promise to pay,Will pay this week
+CALL0001680,LOAN0000655,2026-01-18,Promise to pay,Could not reach
+CALL0001681,LOAN0000851,2026-01-03,Promise to pay,Could not reach
+CALL0001682,LOAN0001262,2026-08-05,Promise to pay,Will pay this week
+CALL0001683,LOAN0002562,2026-05-16,Connected,Will pay this week
+CALL0001684,LOAN0002452,2026-08-23,No answer,Could not reach
+CALL0001685,LOAN0000449,2026-08-14,No answer,Disputed amount
+CALL0001686,LOAN0002777,2025-10-02,Promise to pay,Disputed amount
+CALL0001687,LOAN0003184,2025-12-18,No answer,Will pay this week
+CALL0001688,LOAN0001200,2026-10-04,Promise to pay,Will pay this week
+CALL0001689,LOAN0000144,2026-05-19,Connected,Could not reach
+CALL0001690,LOAN0003078,2025-11-14,Promise to pay,Could not reach
+CALL0001691,LOAN0000928,2026-09-12,Connected,Customer requested extension
+CALL0001692,LOAN0002768,2026-03-15,Promise to pay,Income delayed
+CALL0001693,LOAN0001118,2025-11-11,Promise to pay,Customer requested extension
+CALL0001694,LOAN0001325,2026-03-18,No answer,Could not reach
+CALL0001695,LOAN0002806,2026-02-13,Connected,Income delayed
+CALL0001696,LOAN0001890,2026-05-22,Connected,Customer requested extension
+CALL0001697,LOAN0001343,2026-09-18,Connected,Customer requested extension
+CALL0001698,LOAN0003032,2026-12-23,Dispute raised,Disputed amount
+CALL0001699,LOAN0002379,2025-12-17,No answer,Will pay this week
+CALL0001700,LOAN0003255,2026-05-25,Promise to pay,Will pay this week
+CALL0001701,LOAN0000170,2026-04-16,Promise to pay,Income delayed
+CALL0001702,LOAN0001241,2026-08-09,Connected,Income delayed
+CALL0001703,LOAN0001919,2026-07-14,Wrong number,Will pay this week
+CALL0001704,LOAN0000749,2026-08-17,Connected,Customer requested extension
+CALL0001705,LOAN0000930,2026-02-18,No answer,Customer requested extension
+CALL0001706,LOAN0000977,2026-09-05,Connected,Customer requested extension
+CALL0001707,LOAN0001109,2026-07-11,No answer,Will pay this week
+CALL0001708,LOAN0002247,2026-05-19,No answer,Will pay this week
+CALL0001709,LOAN0000750,2026-11-12,Wrong number,Customer requested extension
+CALL0001710,LOAN0000608,2027-01-15,Connected,Customer requested extension
+CALL0001711,LOAN0001177,2026-02-09,Promise to pay,Disputed amount
+CALL0001712,LOAN0001994,2026-06-05,Promise to pay,Customer requested extension
+CALL0001713,LOAN0001373,2026-02-06,Promise to pay,Could not reach
+CALL0001714,LOAN0000336,2026-03-15,Promise to pay,Income delayed
+CALL0001715,LOAN0002267,2026-09-10,No answer,Income delayed
+CALL0001716,LOAN0000323,2026-05-08,Connected,Income delayed
+CALL0001717,LOAN0000224,2025-11-25,Dispute raised,Disputed amount
+CALL0001718,LOAN0002147,2026-02-11,Connected,Customer requested extension
+CALL0001719,LOAN0003134,2026-11-06,Connected,Could not reach
+CALL0001720,LOAN0001163,2026-09-06,Connected,Could not reach
+CALL0001721,LOAN0002189,2026-04-21,No answer,Customer requested extension
+CALL0001722,LOAN0000377,2026-08-04,No answer,Could not reach
+CALL0001723,LOAN0002840,2026-02-22,No answer,Customer requested extension
+CALL0001724,LOAN0000549,2025-11-12,Wrong number,Customer requested extension
+CALL0001725,LOAN0002858,2026-07-24,No answer,Income delayed
+CALL0001726,LOAN0001462,2025-12-18,No answer,Will pay this week
+CALL0001727,LOAN0002491,2026-06-06,Promise to pay,Income delayed
+CALL0001728,LOAN0000097,2026-07-18,Connected,Could not reach
+CALL0001729,LOAN0000638,2026-06-25,Connected,Customer requested extension
+CALL0001730,LOAN0003215,2026-12-12,Promise to pay,Income delayed
+CALL0001731,LOAN0003369,2025-12-17,Promise to pay,Will pay this week
+CALL0001732,LOAN0001931,2026-02-22,No answer,Income delayed
+CALL0001733,LOAN0000130,2026-03-02,Promise to pay,Will pay this week
+CALL0001734,LOAN0001474,2026-02-15,No answer,Disputed amount
+CALL0001735,LOAN0002518,2027-01-17,Promise to pay,Could not reach
+CALL0001736,LOAN0000055,2025-10-10,Promise to pay,Could not reach
+CALL0001737,LOAN0001089,2026-01-13,No answer,Disputed amount
+CALL0001738,LOAN0002243,2026-03-17,Connected,Will pay this week
+CALL0001739,LOAN0002252,2026-01-04,Promise to pay,Income delayed
+CALL0001740,LOAN0000875,2026-06-13,Connected,Could not reach
+CALL0001741,LOAN0002514,2026-07-03,Promise to pay,Disputed amount
+CALL0001742,LOAN0001098,2025-11-25,Promise to pay,Will pay this week
+CALL0001743,LOAN0001038,2026-05-22,Promise to pay,Disputed amount
+CALL0001744,LOAN0000603,2026-02-11,Promise to pay,Income delayed
+CALL0001745,LOAN0003043,2026-04-03,Connected,Income delayed
+CALL0001746,LOAN0002152,2026-08-07,Promise to pay,Customer requested extension
+CALL0001747,LOAN0003120,2026-05-19,No answer,Will pay this week
+CALL0001748,LOAN0002902,2025-10-13,No answer,Could not reach
+CALL0001749,LOAN0001165,2026-11-05,No answer,Could not reach
+CALL0001750,LOAN0000949,2026-08-21,No answer,Will pay this week
+CALL0001751,LOAN0001569,2026-10-20,Promise to pay,Customer requested extension
+CALL0001752,LOAN0000385,2026-12-14,Wrong number,Income delayed
+CALL0001753,LOAN0000649,2026-07-11,No answer,Disputed amount
+CALL0001754,LOAN0002835,2026-01-23,Dispute raised,Will pay this week
+CALL0001755,LOAN0001306,2026-04-02,Connected,Disputed amount
+CALL0001756,LOAN0001258,2026-02-15,Wrong number,Income delayed
+CALL0001757,LOAN0001789,2026-10-08,Connected,Could not reach
+CALL0001758,LOAN0002649,2026-04-19,Promise to pay,Will pay this week
+CALL0001759,LOAN0002980,2026-01-20,No answer,Income delayed
+CALL0001760,LOAN0000568,2025-08-15,Promise to pay,Income delayed
+CALL0001761,LOAN0001921,2026-02-02,No answer,Income delayed
+CALL0001762,LOAN0002853,2026-08-13,Promise to pay,Could not reach
+CALL0001763,LOAN0001941,2026-03-20,No answer,Income delayed
+CALL0001764,LOAN0000380,2026-03-19,Promise to pay,Disputed amount
+CALL0001765,LOAN0002313,2026-02-12,Wrong number,Income delayed
+CALL0001766,LOAN0003238,2025-11-03,Promise to pay,Customer requested extension
+CALL0001767,LOAN0000819,2026-10-13,Promise to pay,Income delayed
+CALL0001768,LOAN0000173,2026-08-20,Connected,Income delayed
+CALL0001769,LOAN0002839,2026-03-25,Connected,Will pay this week
+CALL0001770,LOAN0001365,2026-09-22,Connected,Could not reach
+CALL0001771,LOAN0001717,2025-12-17,Connected,Income delayed
+CALL0001772,LOAN0001456,2026-05-21,Dispute raised,Income delayed
+CALL0001773,LOAN0000876,2026-07-03,No answer,Income delayed
+CALL0001774,LOAN0000128,2025-12-18,No answer,Could not reach
+CALL0001775,LOAN0002743,2026-10-17,Wrong number,Disputed amount
+CALL0001776,LOAN0000133,2026-07-18,No answer,Customer requested extension
+CALL0001777,LOAN0000087,2026-10-14,Connected,Will pay this week
+CALL0001778,LOAN0001827,2025-11-11,No answer,Could not reach
+CALL0001779,LOAN0003153,2026-06-06,Promise to pay,Could not reach
+CALL0001780,LOAN0000576,2025-09-25,Dispute raised,Customer requested extension
+CALL0001781,LOAN0001327,2026-04-05,No answer,Disputed amount
+CALL0001782,LOAN0002306,2026-07-18,Connected,Could not reach
+CALL0001783,LOAN0001948,2025-10-19,Promise to pay,Income delayed
+CALL0001784,LOAN0002400,2026-09-19,Promise to pay,Disputed amount
+CALL0001785,LOAN0001818,2026-11-04,Connected,Could not reach
+CALL0001786,LOAN0000634,2026-04-15,No answer,Customer requested extension
+CALL0001787,LOAN0003219,2025-09-17,Connected,Could not reach
+CALL0001788,LOAN0001887,2026-03-11,No answer,Customer requested extension
+CALL0001789,LOAN0001894,2026-11-11,Promise to pay,Could not reach
+CALL0001790,LOAN0003295,2026-09-08,Dispute raised,Customer requested extension
+CALL0001791,LOAN0002065,2026-07-15,Connected,Income delayed
+CALL0001792,LOAN0000834,2026-03-18,Dispute raised,Disputed amount
+CALL0001793,LOAN0000323,2026-06-12,No answer,Customer requested extension
+CALL0001794,LOAN0002685,2026-05-21,Promise to pay,Disputed amount
+CALL0001795,LOAN0001502,2026-11-21,Promise to pay,Could not reach
+CALL0001796,LOAN0002526,2026-09-21,Connected,Disputed amount
+CALL0001797,LOAN0001789,2027-01-05,No answer,Could not reach
+CALL0001798,LOAN0002187,2026-06-23,Connected,Could not reach
+CALL0001799,LOAN0002668,2027-02-25,Promise to pay,Disputed amount
+CALL0001800,LOAN0002304,2026-05-08,Connected,Will pay this week

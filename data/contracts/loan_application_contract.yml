@@ -1,0 +1,16 @@
+required_columns:
+  - app_id
+  - customer_id
+  - application_date
+  - product
+  - requested_amount
+  - tenure_months
+  - channel
+  - approval_status
+  - rejection_reason
+  - approved_amount
+  - interest_rate
+  - risk_score
+primary_key: app_id
+foreign_keys:
+  customer_id: customers.customer_id
