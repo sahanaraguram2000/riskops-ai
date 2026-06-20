@@ -46,19 +46,34 @@ def ensure_demo_artifacts() -> None:
 
 ensure_demo_artifacts()
 
+examples = [
+    "Why did approval rate drop this month?",
+    "Which segment has the highest 30+ DPD?",
+    "Show data quality issues in repayment data.",
+    "Summarize portfolio risk with policy citations.",
+    "Generate an incident summary for the approval anomaly.",
+]
+
+
+def load_selected_question() -> None:
+    st.session_state.question = st.session_state.selected_question
+
+
+if "question" not in st.session_state:
+    st.session_state.question = examples[0]
+
 with st.sidebar:
     st.header("Demo questions")
-    examples = [
-        "Why did approval rate drop this month?",
-        "Which segment has the highest 30+ DPD?",
-        "Show data quality issues in repayment data.",
-        "Summarize portfolio risk with policy citations.",
-        "Generate an incident summary for the approval anomaly.",
-    ]
-    selected = st.radio("Pick one", examples)
+    st.radio(
+        "Pick one",
+        examples,
+        key="selected_question",
+        on_change=load_selected_question,
+    )
+    st.caption("Changing the sample now updates the question box, so each run uses the selected query.")
 
 agent = RiskOpsAgent()
-question = st.text_area("Ask the RiskOps agent", value=selected, height=90)
+question = st.text_area("Ask the RiskOps agent", key="question", height=90)
 
 if st.button("Run agent", type="primary"):
     response = agent.ask(question)

@@ -1,12 +1,9 @@
 from __future__ import annotations
 
-import json
 from dataclasses import asdict
-from pathlib import Path
 from typing import Any
 
 import duckdb
-import pandas as pd
 
 from riskops_ai.config import GOLD_DIR
 from riskops_ai.rag.policy_index import PolicyRetriever
@@ -18,7 +15,10 @@ def _parquet_path(name: str) -> str:
 
 def run_sql(sql: str) -> list[dict[str, Any]]:
     con = duckdb.connect(database=":memory:")
-    return con.execute(sql).df().to_dict(orient="records")
+    try:
+        return con.execute(sql).df().to_dict(orient="records")
+    finally:
+        con.close()
 
 
 def portfolio_summary(limit: int = 12) -> list[dict[str, Any]]:
@@ -106,20 +106,36 @@ def retrieve_policy_context(question: str, k: int = 3) -> list[dict[str, Any]]:
 
 
 def answer_question_with_tools(question: str) -> dict[str, Any]:
+    """Simple keyword router for the demo agent.
+
+    The original version used an if/elif chain, so many questions triggered only one
+    tool and the offline response felt repetitive. This router can call multiple
+    tools for one question, which makes incident/anomaly/data-quality questions
+    much more realistic in the free Streamlit deployment.
+    """
     q = question.lower()
-    tools_used = []
+    tools_used: list[str] = []
     evidence: dict[str, Any] = {}
 
-    if any(x in q for x in ["approval", "approve", "drop", "funnel", "rejected"]):
+    asks_approval = any(x in q for x in ["approval", "approve", "drop", "funnel", "rejected", "anomaly"])
+    asks_quality = any(x in q for x in ["quality", "dq", "null", "duplicate", "schema", "incident", "anomaly", "failure"])
+    asks_delinquency = any(x in q for x in ["dpd", "delinquency", "default", "overdue", "repayment", "30+"])
+    asks_portfolio = any(x in q for x in ["portfolio", "summary", "overall", "risk", "health", "citation"])
+
+    if asks_approval:
         tools_used.append("approval_drop_analysis")
         evidence["approval_drop_analysis"] = approval_drop_analysis()
-    elif any(x in q for x in ["dpd", "delinquency", "default", "overdue", "repayment"]):
-        tools_used.append("delinquency_analysis")
-        evidence["delinquency_analysis"] = delinquency_analysis()
-    elif any(x in q for x in ["quality", "dq", "null", "duplicate", "schema", "incident"]):
+
+    # Run DQ before delinquency for questions like "data quality issues in repayment data".
+    if asks_quality:
         tools_used.append("data_quality_diagnostics")
         evidence["data_quality_diagnostics"] = data_quality_diagnostics()
-    else:
+
+    if asks_delinquency:
+        tools_used.append("delinquency_analysis")
+        evidence["delinquency_analysis"] = delinquency_analysis()
+
+    if asks_portfolio or not evidence:
         tools_used.append("portfolio_summary")
         evidence["portfolio_summary"] = portfolio_summary()
 
