@@ -23,7 +23,7 @@ from riskops_ai.tools import (
 
 st.set_page_config(page_title="RiskOps AI", layout="wide")
 st.title("RiskOps AI: Agentic RAG for Credit Risk + Data Quality")
-st.caption("Zero-cost local/web demo using synthetic NBFC data. Default LLM mode is offline and deterministic.")
+# st.caption("Zero-cost local/web demo using synthetic NBFC data. Default LLM mode is offline and deterministic.")
 
 
 def ensure_demo_artifacts() -> None:
