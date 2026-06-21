@@ -14,11 +14,16 @@ import plotly.express as px
 import streamlit as st
 
 from riskops_ai.agent import RiskOpsAgent
-from riskops_ai.tools import portfolio_summary, data_quality_diagnostics, approval_drop_analysis, delinquency_analysis
+from riskops_ai.tools import (
+    approval_drop_analysis,
+    data_quality_diagnostics,
+    delinquency_analysis,
+    portfolio_summary,
+)
 
 st.set_page_config(page_title="RiskOps AI", layout="wide")
 st.title("RiskOps AI: Agentic RAG for Credit Risk + Data Quality")
-st.caption("Zero-cost local demo using synthetic NBFC data. Default LLM mode is offline and deterministic.")
+st.caption("Zero-cost local/web demo using synthetic NBFC data. Default LLM mode is offline and deterministic.")
 
 
 def ensure_demo_artifacts() -> None:
@@ -70,51 +75,72 @@ with st.sidebar:
         key="selected_question",
         on_change=load_selected_question,
     )
-    st.caption("Changing the sample now updates the question box, so each run uses the selected query.")
+    st.caption("The selected sample question is used only in the Agent tab.")
+    st.divider()
+    st.markdown(
+        "**App layout**\n\n"
+        "- **Ask RiskOps Agent:** natural-language Q&A with tools and evidence.\n"
+        "- **Portfolio Monitoring Dashboard:** fixed portfolio, DQ, approval, and delinquency views."
+    )
 
-agent = RiskOpsAgent()
-question = st.text_area("Ask the RiskOps agent", key="question", height=90)
+agent_tab, dashboard_tab = st.tabs(["Ask RiskOps Agent", "Portfolio Monitoring Dashboard"])
 
-if st.button("Run agent", type="primary"):
-    response = agent.ask(question)
-    st.subheader("Answer")
-    st.write(response.answer)
-    st.caption(f"Tools used: {', '.join(response.tools_used)} | Latency: {response.latency_ms} ms")
+with agent_tab:
+    st.subheader("Ask the RiskOps Agent")
+    st.write(
+        "Ask a credit-risk, approval, delinquency, or data-quality question. "
+        "Only the answer and its supporting evidence appear here; fixed monitoring charts are kept in the dashboard tab."
+    )
 
-    with st.expander("Evidence JSON"):
-        st.json(response.evidence)
+    question = st.text_area("Question", key="question", height=90)
 
-st.divider()
+    if st.button("Run agent", type="primary"):
+        agent = RiskOpsAgent()
+        response = agent.ask(question)
 
-col1, col2 = st.columns(2)
+        st.subheader("Answer")
+        st.write(response.answer)
+        st.caption(f"Tools used: {', '.join(response.tools_used)} | Latency: {response.latency_ms} ms")
 
-with col1:
-    st.subheader("Latest approval drop drivers")
-    approval_df = pd.DataFrame(approval_drop_analysis())
-    st.dataframe(approval_df, use_container_width=True)
-    if not approval_df.empty:
-        fig = px.bar(
-            approval_df.head(8),
-            x="approval_drop_pp",
-            y="channel",
-            color="employment_type",
-            orientation="h",
-            title="Approval drop by channel and employment type",
-        )
-        st.plotly_chart(fig, use_container_width=True)
+        with st.expander("Evidence JSON"):
+            st.json(response.evidence)
 
-with col2:
-    st.subheader("Data-quality failures")
-    dq_df = pd.DataFrame(data_quality_diagnostics())
-    st.dataframe(dq_df, use_container_width=True)
-    if not dq_df.empty:
-        fig = px.histogram(dq_df, x="severity", title="Failed DQ checks by severity")
-        st.plotly_chart(fig, use_container_width=True)
+with dashboard_tab:
+    st.subheader("Portfolio Monitoring Dashboard")
+    st.write(
+        "These are fixed monitoring views built from the Gold marts. "
+        "They are intentionally separated from the Q&A flow so the agent answer is not mixed with unrelated charts."
+    )
 
-st.subheader("Portfolio summary")
-portfolio_df = pd.DataFrame(portfolio_summary(30))
-st.dataframe(portfolio_df, use_container_width=True)
+    col1, col2 = st.columns(2)
 
-st.subheader("Delinquency hotspots")
-dpd_df = pd.DataFrame(delinquency_analysis())
-st.dataframe(dpd_df, use_container_width=True)
+    with col1:
+        st.markdown("### Latest approval drop drivers")
+        approval_df = pd.DataFrame(approval_drop_analysis())
+        st.dataframe(approval_df, use_container_width=True)
+        if not approval_df.empty:
+            fig = px.bar(
+                approval_df.head(8),
+                x="approval_drop_pp",
+                y="channel",
+                color="employment_type",
+                orientation="h",
+                title="Approval drop by channel and employment type",
+            )
+            st.plotly_chart(fig, use_container_width=True)
+
+    with col2:
+        st.markdown("### Data-quality failures")
+        dq_df = pd.DataFrame(data_quality_diagnostics())
+        st.dataframe(dq_df, use_container_width=True)
+        if not dq_df.empty:
+            fig = px.histogram(dq_df, x="severity", title="Failed DQ checks by severity")
+            st.plotly_chart(fig, use_container_width=True)
+
+    st.markdown("### Portfolio summary")
+    portfolio_df = pd.DataFrame(portfolio_summary(30))
+    st.dataframe(portfolio_df, use_container_width=True)
+
+    st.markdown("### Delinquency hotspots")
+    dpd_df = pd.DataFrame(delinquency_analysis())
+    st.dataframe(dpd_df, use_container_width=True)
